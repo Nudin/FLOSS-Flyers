@@ -1,0 +1,90 @@
+\documentclass[12pt,a4paper,landscape,twocolumn]{article}
+\usepackage[a4paper,left=1.9cm,right=1.5cm,top=1cm,bottom=1cm,landscape]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[german]{babel}
+\usepackage{graphicx}
+\usepackage{blindtext}
+\usepackage{multicol}
+\usepackage{hyperref}
+\usepackage{paralist}
+\pagestyle{empty} 
+\setlength{\columnsep}{1cm}
+\hypersetup{
+    pdftoolbar=true,
+    pdfmenubar=true,
+    pdffitwindow=false,
+    pdfstartview={FitH},
+    pdfnewwindow=true,
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    filecolor=black,
+    urlcolor=blue
+}
+
+\newcommand{\software}[6]{
+\subsection*{#1 (#2)}
+\begin{compactitem}
+\item #3
+\item \textbf{Lizenz:} #4
+\item \textbf{Betriebssystem:} #5
+\item \textbf{Homepage:} \url{#6}
+\end{compactitem} 
+}
+
+\begin{document}
+\twocolumn[{\center\section*{Grafik}}\bigskip]
+
+\software{JPEGView}{Bildbetrachter}
+{Einfacher Betrachter für Bilder in den gängigen Formaten mit Diaschaufunktion und einfachen Bearbeitungsmöglichkeiten.}
+{Windows 2000 und neuer}
+{GPL}
+{http://jpegview.sourceforge.net/}
+
+\software{Gimp}{Bildbearbeitung}
+{Mächtiges Bildbearbeitungsprogramm, mit großen Funktionsumfang. Bekannteste freie alternative zu Photoshop.}
+{Windows, Mac OS X, Gnu/Linux, andere}
+{GPL}
+{http://www.gimp.org/}
+
+\software{Krita}{Bildbearbeitung}
+{Mächtiges Bildbearbeitungs- und Malprogramm}
+{Windows, Gnu/Linux, andere}
+{GPL}
+{http://krita.org/}
+
+\software{Inkscape}{Vektorzeichenprogramm}
+{Vektorgrafik-Programm, arbeitet mit SVG-Dateien, unterstützt Import und Export von PDF und zahlreichen anderen}
+{Windows, Mac OS X, Gnu/Linux, andere}
+{GPL}
+{http://www.inkscape.org/de/}
+
+\newpage % ab hier rechte Seite
+
+\software{Hugin}{Panorama}
+{Umfangreiche Software zu Erstellung von Panoramen auf mehreren Einzelaufnahmen}
+{Windows, Mac OS X, Gnu/Linux, andere}
+{GPL}
+{http://hugin.sourceforge.net/}
+
+
+\software{RawTherapee}{RAW-Konverter}
+{Mit RawTherapee können sie die Rohdaten ihrer Kamera in Bilder umwandeln und dabei Bearbeiten.}
+{GPL}
+{Windows, Mac OS X, Gnu/Linux}
+{http://rawtherapee.com/ }
+
+
+\software{MyPaint}{Zeichenprogramm}
+{Zeichenprogrammm für intuitives Malen}
+{GPL}
+{Windows, Mac OS X, Gnu/Linux, andere}
+{http://mypaint.intilinux.com/}
+
+\software{Darktable}{Foto-Workflow-Software}
+{Virtueller Leuchttisch und Dunkelkammer für Photografen mit Funktionen für Bildbearbeitung und Bildverwaltung.}
+{GPL}
+{Mac OS X, Gnu/Linux, andere}
+{http://www.darktable.org/}
+
+\end{document}

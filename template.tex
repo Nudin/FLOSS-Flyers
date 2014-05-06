@@ -1,0 +1,44 @@
+\documentclass[12pt,a4paper,landscape,twocolumn]{article}
+\usepackage[a4paper,left=1.9cm,right=1.5cm,top=1cm,bottom=1cm,landscape]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[german]{babel}
+\usepackage{graphicx}
+\usepackage{blindtext}
+\usepackage{multicol}
+\usepackage{hyperref}
+\usepackage{paralist}
+\pagestyle{empty} 
+\setlength{\columnsep}{1cm}
+
+\newcommand{\software}[6]{
+\subsection*{#1 (#2)}
+\begin{compactitem}
+\item #3
+\item \textbf{Lizenz:} #4
+\item \textbf{Betriebssystem:} #5
+\item \textbf{Homepage:} \url{#6}
+\end{compactitem} 
+}
+
+\begin{document}
+\twocolumn[{\center\section*{Thema}}]
+
+
+\software{XXX}{YY}
+{Beschriebung}
+{GPL}
+{OS}
+{URL} 
+
+
+\newpage % ab hier rechte Seite
+
+
+\software{XXX}{YY}
+{Beschriebung}
+{GPL}
+{OS}
+{URL} 
+
+
+\end{document}
