@@ -1,13 +1,15 @@
-\usepackage[a4paper,left=1.9cm,right=1.5cm,top=1cm,bottom=1cm,landscape]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage[german]{babel}
 \usepackage{graphicx}
-\usepackage{blindtext}
-\usepackage{multicol}
-\usepackage{hyperref}
 \usepackage{paralist}
-\pagestyle{empty} 
+\usepackage{microtype}
+\usepackage[a4paper,left=1.9cm,right=1.5cm,top=1cm,bottom=1cm,landscape]{geometry}
+\usepackage{multicol}
 \setlength{\columnsep}{1cm}
+\usepackage{titlesec}
+\titleformat*{\section}{\LARGE\bfseries\center}
+
+\usepackage{hyperref}
 \hypersetup{
     pdftoolbar=true,
     pdfmenubar=true,
@@ -20,6 +22,7 @@
     filecolor=black,
     urlcolor=blue
 }
+\pagestyle{empty} 
 
 \newcommand{\software}[6]{
 \subsection*{#1 (#2)}
@@ -31,4 +34,4 @@
 \end{compactitem} 
 }
 
-\newcommand{\thema}[1]{\twocolumn[{\center\section*{#1}}\bigskip]}
+\newcommand{\thema}[1]{\twocolumn[{\section*{#1}}\bigskip]}
