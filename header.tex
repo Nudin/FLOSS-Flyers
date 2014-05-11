@@ -1,0 +1,38 @@
+\usepackage[utf8]{inputenc}
+\usepackage[german]{babel}
+\usepackage{graphicx}
+\usepackage{paralist}
+\usepackage{microtype}
+\usepackage[a4paper,left=1.9cm,right=1.5cm,top=1cm,bottom=1cm,landscape]{geometry}
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
+\usepackage{titlesec}
+\titleformat*{\section}{\LARGE\bfseries\center}
+
+\usepackage{hyperref}
+\hypersetup{
+    pdftoolbar=true,
+    pdfmenubar=true,
+    pdffitwindow=false,
+    pdfstartview={FitH},
+    pdfnewwindow=true,
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    filecolor=black,
+    urlcolor=blue
+}
+\pagestyle{empty} 
+
+\newcommand{\software}[7]{
+\subsection*{#1 (#2)}
+\begin{compactitem}
+\item #3
+\item \textbf{Betriebssystem:} #4
+\item \textbf{Lizenz:} #6
+\item \textbf{Deutschsprachig:} #7
+\item \textbf{Homepage:} \url{#5}
+\end{compactitem} 
+}
+
+\newcommand{\thema}[1]{\twocolumn[{\section*{#1}}\bigskip]}

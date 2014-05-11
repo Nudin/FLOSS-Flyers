@@ -1,0 +1,134 @@
+Mit Schrägstich getrent sind alternativen, wo man überlegen muss ob beide oder nur eines. Mit ... meine ich das man noch nach alternative suchen muss.
+
+Bildbearbeitung
+	* <Betrachter>   <- Was gibt's den unter Windows für Bildbetrachter? JPEGView
+	* Gimp
+	* Inkscape
+	* Hugin
+	* Darktable ?
+	* RawTherapee
+	* Krita
+	* Paint.net  <- Nicht mehr OpenSource - trotzdem rein, gibt es ne alternative? http://mypaint.intilinux.com/ ?
+
+3D Grafik    <- Könnte man ggf. auch mit Bildbearbeitung mergen
+	* Blender
+	* Makehuman
+	* OpenSCAD
+	* Sweethome3D
+
+Video
+	* VLC
+	* Miro
+	* XBMC
+	* Mediathek   <- die "richtige"
+	* Avidemux/Shortcut/VirtualDub/...
+	* Openshot/Pitivi/…
+	* TV-Browser
+	* Minitube
+
+GIS
+	* OSM
+	* Marble
+	* WorldWind
+	* OpenLayers
+	* QGIS
+	* GRASS
+	* Merkartor
+	* http://freegis.org/  <-- Würde ich angeben, da es da sehr viel gibt
+
+Audio
+	* Amarok/Songbird?
+	* Audacity
+	* UltraStar Deluxe
+	* Mixxx?
+	* LMMS?
+	* CDex/…
+
+Lernprogramme
+	* Celestia
+	* Stellarium
+	* Geogebra
+	* Marble
+	* Kiwix
+	* Gnu Octave
+
+Web
+	* Firefox
+	* Chrome/Chromium
+	* Thunderbird
+	* Free Download Manager/jDownloader 2
+	* Pidgin/Miranda
+	* RssOwl/
+	* Vuze
+	* FileZilla
+
+Office
+	* Libre Office
+	* XMind/Freemind
+	* Sumatra/…   <- gibt es was das gegen Sumatra spricht, oder warum ist das bei http://pdfreaders.org nicht dabei? http://blogs.fsfe.org/repentinus/english/2014/03/05/pdfreaders-org-removal-of-sumatrapdf-due-to-use-of-non-free-code/
+	* Task Unifier/ToDoList/...
+	* TIPP10/…
+	* PDFsam
+	* Lightning
+	* Scribus
+
+Server?
+	* ownCloud
+	* Wordpress
+
+Linux Distributionen
+	* KNOPPIX
+	* Linux Mint
+	* Ubuntu
+	* Fedora
+	* Suse
+	* Debian
+	* Arch
+	* Bankix
+
+Spiele
+	* FreeCiv
+	* LinCi
+	* The Battle for Wesnothty
+	* Cities3D    <- Webseite kaputt
+	* Glest
+	* Warzone 2100
+	* FlightGear
+	* Torcs
+	* Cannon Smash?
+	* VDrift?
+	* FooBillard?
+	* Super Tux Kart
+	* Free Orion 
+	* 0 A.D. 
+	* FreedroidRPG
+	* 
+	* da gibt's extrem viele; Nach welchen Kriterien auswählen? Aufteilen?
+	    - http://www.chip.de/artikel/Die-besten-Open-Source-Spiele-4_18600205.html
+	    - http://www.lgdb.org/games?sort_by=field_statistics_nb_visits&taxonomy_vocabulary_3_tid=All&taxonomy_vocabulary_5_tid=All&taxonomy_vocabulary_7_tid=All&taxonomy_vocabulary_6_tid=All&taxonomy_vocabulary_14_tid=All&taxonomy_vocabulary_9_tid=All&taxonomy_vocabulary_34_tid=All&taxonomy_vocabulary_16_tid=All&taxonomy_vocabulary_12_tid=39
+	   - ...
+
+Ideen für weitere Listen:
+	* Buchhaltung & Finansoftware
+	* Handwerkssoftware (Schnittmuster, etc.)
+	* Generalogie
+	* 
+
+Listen von FOSS:
+	http://www.opensourcewindows.de/
+	http://opensourceday.info/opensource.pdf
+	http://www.opensource4mac.de/
+	https://directory.fsf.org/wiki/Main_Page
+
+alternativeto-Alternative für FOSS:
+	http://linuxappfinder.com/
+	http://directory.fsf.org/
+	http://www.osliving.com/
+	http://www.findbestopensource.com/
+	http://www.opensourcesoftwaredirectory.com/
+	http://ostatic.com/
+	http://www.linuxalt.com/
+
+
+
+
