@@ -5,7 +5,7 @@
 \usepackage{microtype}
 \usepackage[a4paper,left=1.9cm,right=1.5cm,top=1cm,bottom=1cm,landscape]{geometry}
 \usepackage{multicol}
-\setlength{\columnsep}{1cm}
+\setlength{\columnsep}{1.5cm}
 \usepackage{titlesec}
 \titleformat*{\section}{\LARGE\bfseries\center}
 
@@ -26,8 +26,8 @@
 
 \newcommand{\software}[7]{
 \subsection*{#1 (#2)}
-\begin{compactitem}
-\item #3
+#3 
+\begin{compactitem}\medskip
 \item \textbf{Betriebssystem:} #4
 \item \textbf{Lizenz:} #6
 \item \textbf{Deutschsprachig:} #7
