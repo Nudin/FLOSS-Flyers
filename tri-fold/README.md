@@ -6,8 +6,8 @@ In Inkscape gesetzte Wickelfalz-Varianten der LaTeX-Flyer.
 * Enthält eine kurze Beschreibung der vier Freiheiten sowie einen Link auf fsfe.org
 * Aus Platzgründen waren geringfügige Textänderungen nötig ("andere" aus OS-Liste entfernt, Software-Kategorien verkürzt)
 * Optimiert für Graustufen-Druck
-* Ausgerichtet auf herkömmlichen Duplexdruck (Drehung um Längsseite - bei Druckern meist Standardeinstellung)
-* Zum Falten bitte die Falzmarke auf der Rückseite verwenden (Talfalte zur Marke hin)
+* Beim Duplexdruck beachten: Drehung muss um Querseite (kurze Seite) erfolgen!
+* Zum Falten bitte die Falzmarken auf der Rückseite verwenden (Talfalte zu den Marken hin)
 
 PDF-Erstellung
 --------------
@@ -25,5 +25,6 @@ Schritte:
 3. Alle anderen Inhalts-Ebenen ausblenden
 4. "Kopie speichern unter" ./tmp/{ebene}-{front|back}.pdf
 5. Schritte 1-4 mit back.svg wiederholen
-6. ./mergepdf.sh {ebene} ausführen
-7. Fertige PDF liegt in ./pdf/{ebene}.pdf
+6. make all (oder make {ebene}) ausführen
+7. Fertige PDFs liegen in ./pdf/{ebene}.pdf
+
