@@ -97,11 +97,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="442.31307"
-     inkscape:cy="358.06204"
+     inkscape:zoom="0.71899471"
+     inkscape:cx="526.18109"
+     inkscape:cy="372.04724"
      inkscape:document-units="mm"
-     inkscape:current-layer="g9814"
+     inkscape:current-layer="layer20"
      showgrid="false"
      units="mm"
      showguides="true"
@@ -240,22 +240,21 @@
      inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="fold"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
-       style="color:#000000;fill:#000000;fill-opacity:0.19594595;fill-rule:nonzero;stroke:none;stroke-width:0.70866144;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70866143999999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.25"
        id="rect7320"
-       width="1.7716535"
-       height="17.716536"
-       x="363.18896"
-       y="726.37793" />
+       width="3.5433071"
+       height="3.5433071"
+       x="364.96063"
+       y="705.1181" />
     <rect
-       style="color:#000000;fill:#000000;fill-opacity:0.19594595;fill-rule:nonzero;stroke:none;stroke-width:0.70866144;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70866143999999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.25"
        id="rect7320-6"
-       width="1.7716535"
-       height="17.716536"
-       x="363.18896"
-       y="2.421875e-06" />
+       width="3.5433071"
+       height="3.5433071"
+       x="364.96063"
+       y="31.889757" />
   </g>
   <g
      inkscape:groupmode="layer"
