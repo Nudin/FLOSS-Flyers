@@ -1,4 +1,6 @@
 #!/bin/sh
 
-pdftk A="./tmp/$1-front.pdf" B="./tmp/$1-back.pdf" cat AW BW output "./pdf/$1.pdf"
-
+for layer in "$@"
+do
+  pdftk A="./tmp/$layer-front.pdf" B="./tmp/$layer-back.pdf" cat AW BW output "./pdf/$layer.pdf"
+done
