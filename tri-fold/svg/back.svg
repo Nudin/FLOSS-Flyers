@@ -16,9 +16,8 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="back.svg"
-   inkscape:export-filename="/home/anonymous/Arbeitsfläche/Projekte/FSFE/trifold/png/back.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs5451">
     <filter
@@ -99,8 +98,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="496.59878"
-     inkscape:cy="400.93392"
+     inkscape:cx="442.31307"
+     inkscape:cy="358.06204"
      inkscape:document-units="mm"
      inkscape:current-layer="g9814"
      showgrid="false"
@@ -185,7 +184,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -193,7 +192,7 @@
      inkscape:groupmode="layer"
      id="layer19"
      inkscape:label="ornament"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <g
        style="display:inline;filter:url(#filter3119-7-0-9)"
