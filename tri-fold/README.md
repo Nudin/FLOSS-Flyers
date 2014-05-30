@@ -15,12 +15,12 @@ PDF-Erstellung
 Software:
 
 * Inkscape
-* Schriften: Liberation Sans, Liberation Narrow
+* Schriften: Liberation Sans, Liberation Sans Narrow
 * pdftk
 
 Schritte:
 
-1. ./pdf/front.svg in Inkscape öffnen
+1. ./svg/front.svg in Inkscape öffnen
 2. Die gewünschte Ebene sichtbar schalten
 3. Alle anderen Inhalts-Ebenen ausblenden
 4. "Kopie speichern unter" ./tmp/{ebene}-{front|back}.pdf
