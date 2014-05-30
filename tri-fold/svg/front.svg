@@ -1,0 +1,1748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="90"
+   inkscape:export-xdpi="90"
+   inkscape:export-filename="/home/anonymous/Arbeitsfläche/Projekte/FSFE/leporello.png"
+   sodipodi:docname="front.svg"
+   inkscape:version="0.48.3.1 r9886"
+   version="1.1"
+   id="svg2"
+   height="744.09448"
+   width="1052.3622">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4454">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4456" />
+      <stop
+         id="stop5161"
+         offset="0.20319797"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+      <stop
+         id="stop4464"
+         offset="0.79605663"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop4458" />
+    </linearGradient>
+    <filter
+       id="filter3119"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3121"
+         type="saturate"
+         values="0" />
+    </filter>
+    <linearGradient
+       id="linearGradient4027">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4029" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4031" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4027"
+       id="linearGradient3151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14392249,0,0,0.14009228,-1157.6898,670.84274)"
+       x1="124.99999"
+       y1="1891.5009"
+       x2="10793.473"
+       y2="1891.5009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4027"
+       id="linearGradient3195"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14392249,0,0,0.14009228,-1070.3524,722.60586)"
+       x1="124.99999"
+       y1="1891.5009"
+       x2="10793.473"
+       y2="1891.5009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4027"
+       id="linearGradient3025"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14392249,0,0,0.14009228,-413.72386,670.84274)"
+       x1="124.99999"
+       y1="1891.5009"
+       x2="10793.473"
+       y2="1891.5009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4027"
+       id="linearGradient3799"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14392249,0,0,0.14009228,-501.06125,722.60586)"
+       x1="124.99999"
+       y1="1891.5009"
+       x2="10793.473"
+       y2="1891.5009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4027"
+       id="linearGradient3802"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14392249,0,0,0.14009228,-413.72386,666.84274)"
+       x1="124.99999"
+       y1="1891.5009"
+       x2="10793.473"
+       y2="1891.5009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4027-4"
+       id="linearGradient3811-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14392249,0,0,0.14009228,-413.72386,666.84274)"
+       x1="124.99999"
+       y1="1891.5009"
+       x2="10793.473"
+       y2="1891.5009" />
+    <linearGradient
+       id="linearGradient4027-4">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4029-5" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4031-7" />
+    </linearGradient>
+    <linearGradient
+       y2="1891.5009"
+       x2="10793.473"
+       y1="1891.5009"
+       x1="124.99999"
+       gradientTransform="matrix(0.14392249,0,0,0.14009228,-413.72386,666.84274)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3870"
+       xlink:href="#linearGradient4027-4"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4027-4"
+       id="linearGradient4051"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14392249,0,0,0.14009228,-413.72386,666.84274)"
+       x1="124.99999"
+       y1="1891.5009"
+       x2="10793.473"
+       y2="1891.5009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4027-4"
+       id="linearGradient4054"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14392249,0,0,0.14009228,-427.72386,516.84274)"
+       x1="124.99999"
+       y1="1891.5009"
+       x2="10793.473"
+       y2="1891.5009" />
+    <filter
+       id="filter4060"
+       inkscape:label="Einfaerben"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Blend image or object with a flood color and set lightness and contrast"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix4062"
+         values="1"
+         in="SourceGraphic"
+         type="saturate"
+         result="result2" />
+      <feFlood
+         id="feFlood4064"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="1"
+         result="result1" />
+      <feBlend
+         id="feBlend4066"
+         in2="result2"
+         mode="multiply"
+         in="result1"
+         result="result3" />
+      <feComposite
+         id="feComposite4068"
+         in2="SourceGraphic"
+         operator="in"
+         k2="1"
+         result="result4" />
+    </filter>
+    <filter
+       id="filter4060-2"
+       inkscape:label="Einfaerben"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Blend image or object with a flood color and set lightness and contrast"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix4062-9"
+         values="1"
+         in="SourceGraphic"
+         type="saturate"
+         result="result2" />
+      <feFlood
+         id="feFlood4064-3"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="1"
+         result="result1" />
+      <feBlend
+         id="feBlend4066-8"
+         in2="result2"
+         mode="multiply"
+         in="result1"
+         result="result3" />
+      <feComposite
+         id="feComposite4068-1"
+         in2="SourceGraphic"
+         operator="in"
+         result="result4" />
+    </filter>
+    <filter
+       id="filter3119-7"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3121-9"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3119-7-0"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3121-9-1"
+         type="saturate"
+         values="0" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4454"
+       id="linearGradient4462"
+       x1="-251.41574"
+       y1="659.81305"
+       x2="1307.0762"
+       y2="659.81305"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.67524393,0,0,1.073268,169.76697,-43.786123)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98999999"
+     inkscape:cx="135.16438"
+     inkscape:cy="442.64443"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer16"
+     showgrid="false"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     borderlayer="false"
+     showborder="true"
+     inkscape:snap-from-guide="true"
+     guidetolerance="5">
+    <sodipodi:guide
+       orientation="1,0"
+       position="343.70079,0"
+       id="guide2985" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="698.0315,0"
+       id="guide2987" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1"
+       id="guide2989" />
+    <sodipodi:guide
+       position="1052.3622,0"
+       orientation="1,0"
+       id="guide2991" />
+    <sodipodi:guide
+       position="0,744.09449"
+       orientation="0,1"
+       id="guide2993" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="1,0"
+       id="guide2995" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="379.13386,0"
+       id="guide3913" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="662.59843,0"
+       id="guide3915" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="308.26772,0"
+       id="guide3188" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="35.433071,0"
+       id="guide3190" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,673.22835"
+       id="guide3192" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,212.59843"
+       id="guide3194" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,407.48031"
+       id="guide3563" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,637.79528"
+       id="guide3565" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,460.62992"
+       id="guide3567" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,372.04724"
+       id="guide3569" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="744.09449,0"
+       id="guide3606" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="content"
+     style="display:inline">
+    <g
+       style="display:none"
+       inkscape:label="web"
+       id="g5891"
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
+      <text
+         sodipodi:linespacing="100%"
+         id="text5893"
+         y="237.59669"
+         x="744.09448"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan5897"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           y="237.59669"
+           x="744.09448"
+           sodipodi:role="line">Internet &amp;</tspan><tspan
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           y="269.59668"
+           x="744.09448"
+           sodipodi:role="line"
+           id="tspan6052">World Wide Web</tspan></text>
+      <g
+         transform="translate(0.06881319,-39.894708)"
+         id="g5899"
+         style="display:inline">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5901"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           transform="translate(0.02050781,343.51761)"><flowRegion
+             id="flowRegion5903"><rect
+               id="rect5905"
+               width="272.87091"
+               height="191.4567"
+               x="35.355339"
+               y="54.160294"
+               style="font-weight:normal;-inkscape-font-specification:Liberation Sans" /></flowRegion><flowPara
+             id="flowPara5907"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">Organisiert eine Sammlung aktueller Nachrichten aus beliebigen Newsfeeds.</flowPara><flowPara
+             id="flowPara5909"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+             id="flowPara5911"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan5913"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Betriebssystem: </flowSpan><flowSpan
+               id="flowSpan5915"
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed">Windows, Mac OS X, GNU/Linux</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5917"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan5919">Lizenz: </flowSpan><flowSpan
+               id="flowSpan5921"
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed">EPL</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5923"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan5925">Deutschsprachig: </flowSpan><flowSpan
+               id="flowSpan5927"
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed">Ja</flowSpan></flowPara><flowPara
+             id="flowPara5929"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan5931">Website: </flowSpan><flowSpan
+               id="flowSpan5933"
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed">www.rssowl.org</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5935" /><flowPara
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5937" /></flowRoot>        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           x="35.364258"
+           y="376.50888"
+           id="text5939"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5941"
+             x="35.364258"
+             y="376.50888"
+             style="font-size:20px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">RSSOwl</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:0.3917198;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           x="308.19891"
+           y="376.50888"
+           id="text5943"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5945"
+             x="308.19891"
+             y="376.50888"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;fill:#000000;fill-opacity:0.3917198;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">Feed-Reader</tspan></text>
+      </g>
+      <g
+         transform="translate(-0.26614775,-305.73711)"
+         id="g5947"
+         style="display:inline">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5949"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           transform="translate(0.35546888,343.61198)"><flowRegion
+             id="flowRegion5951"><rect
+               id="rect5953"
+               width="272.87088"
+               height="168.95224"
+               x="35.355339"
+               y="54.160294"
+               style="font-weight:normal;-inkscape-font-specification:Liberation Sans" /></flowRegion><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara6058">Erlaubt Datei ̈bertragungen mittels der Protokolle FTP(S) und SFTP.</flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5957" /><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5959"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan5961">Betriebssystem:</flowSpan><flowSpan
+               id="flowSpan5963"
+               style="font-weight:bold"> Windows, Mac OS X, GNU/Linux</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5965"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan5967">Lizenz:</flowSpan><flowSpan
+               id="flowSpan5969"
+               style="font-style:normal;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Condensed"> GPL </flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+             id="flowPara5971">Deutschsprachig:<flowSpan
+   id="flowSpan5973"
+   style="font-style:normal;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"> Ja</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5975"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan5977">Website:</flowSpan><flowSpan
+               id="flowSpan5979"
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"> www.filezilla-project.org</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5981" /><flowPara
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5983" /></flowRoot>        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           x="35.699219"
+           y="376.60324"
+           id="text5985"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5987"
+             x="35.699219"
+             y="376.60324"
+             style="font-size:20px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">FileZilla</tspan><tspan
+             sodipodi:role="line"
+             x="35.699219"
+             y="401.60324"
+             style="font-size:20px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold"
+             id="tspan6054" /></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:0.3917198;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           x="308.53387"
+           y="376.60324"
+           id="text5989"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5991"
+             x="308.53387"
+             y="376.60324"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;fill:#000000;fill-opacity:0.3917198;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">FTP-Client</tspan><tspan
+             sodipodi:role="line"
+             x="308.53387"
+             y="401.60324"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;fill:#000000;fill-opacity:0.3917198;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="tspan6056" /></text>
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g5789"
+       inkscape:label="video"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="744.09448"
+         y="237.59669"
+         id="text5791"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           x="744.09448"
+           y="237.59669"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           id="tspan5793">Video &amp;</tspan><tspan
+           sodipodi:role="line"
+           x="744.09448"
+           y="269.59668"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           id="tspan5795">Multimedia</tspan></text>
+      <g
+         style="display:inline"
+         id="g5797"
+         transform="translate(0.06881319,-39.894708)">
+        <flowRoot
+           transform="translate(0.02050781,343.51761)"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="flowRoot5799"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5801"><rect
+               style="font-weight:normal;-inkscape-font-specification:Liberation Sans"
+               y="54.160294"
+               x="35.355339"
+               height="191.4567"
+               width="272.87091"
+               id="rect5803" /></flowRegion><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5805">Programm zum komfortablen Ansehen von Youtube-Videos ohne Internetbrowser.</flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5807" /><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5809"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan5811">Betriebssystem: </flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan5813">Windows, Mac OS X, GNU/Linux</flowSpan></flowPara><flowPara
+             id="flowPara5815"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan5817"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Lizenz: </flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan5819">GPL</flowSpan></flowPara><flowPara
+             id="flowPara5821"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan5823"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Deutschsprachig: </flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan5825">Ja</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5827"><flowSpan
+               id="flowSpan5829"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan5831">flavio.tordini.org/minitube/</flowSpan></flowPara><flowPara
+             id="flowPara5833"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+             id="flowPara5835"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /></flowRoot>        <text
+           sodipodi:linespacing="125%"
+           id="text5837"
+           y="376.50888"
+           x="35.364258"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           xml:space="preserve"><tspan
+             style="font-size:20px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold"
+             y="376.50888"
+             x="35.364258"
+             id="tspan5839"
+             sodipodi:role="line">Minitube</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5841"
+           y="376.50888"
+           x="308.19891"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:0.3917198;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           xml:space="preserve"><tspan
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;fill:#000000;fill-opacity:0.3917198;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             y="376.50888"
+             x="308.19891"
+             id="tspan5843"
+             sodipodi:role="line">Youtube-Player</tspan></text>
+      </g>
+      <g
+         style="display:inline"
+         id="g5845"
+         transform="translate(-0.26614775,-305.73711)">
+        <flowRoot
+           transform="translate(0.35546888,343.61198)"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="flowRoot5847"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5849"><rect
+               style="font-weight:normal;-inkscape-font-specification:Liberation Sans"
+               y="54.160294"
+               x="35.355339"
+               height="168.95224"
+               width="272.87088"
+               id="rect5851" /></flowRegion><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5853">Elektronische TV-Zeitschrift mit über 1000 TV- und Radiosendern und zahlreichen Funktionen.</flowPara><flowPara
+             id="flowPara5855"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+             id="flowPara5857"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan5859"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Betriebssystem:</flowSpan><flowSpan
+               style="font-weight:bold"
+               id="flowSpan5861"> Windows, Mac OS X, GNU/Linux</flowSpan></flowPara><flowPara
+             id="flowPara5863"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan5865"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Lizenz:</flowSpan><flowSpan
+               style="font-style:normal;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+               id="flowSpan5867"> GPL </flowSpan></flowPara><flowPara
+             id="flowPara5869"
+             style="font-size:14px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Deutschsprachig:<flowSpan
+   style="font-style:normal;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+   id="flowSpan5871"> Ja</flowSpan></flowPara><flowPara
+             id="flowPara5873"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan5875"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website:</flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan5877"> www.tvbrowser.org</flowSpan></flowPara><flowPara
+             id="flowPara5879"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+             id="flowPara5881"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /></flowRoot>        <text
+           sodipodi:linespacing="125%"
+           id="text5883"
+           y="376.60324"
+           x="35.699219"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           xml:space="preserve"><tspan
+             style="font-size:20px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold"
+             y="376.60324"
+             x="35.699219"
+             id="tspan5885"
+             sodipodi:role="line">TV-Browser</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5887"
+           y="376.60324"
+           x="308.53387"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:0.3917198;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           xml:space="preserve"><tspan
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;fill:#000000;fill-opacity:0.3917198;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             y="376.60324"
+             x="308.53387"
+             id="tspan5889"
+             sodipodi:role="line">Programmführer</tspan></text>
+      </g>
+    </g>
+    <g
+       style="display:none"
+       inkscape:label="office"
+       id="g5661"
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
+      <text
+         sodipodi:linespacing="100%"
+         id="text5663"
+         y="237.59669"
+         x="744.09448"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan5665"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           y="237.59669"
+           x="744.09448"
+           sodipodi:role="line">Büro &amp;</tspan><tspan
+           id="tspan5667"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           y="269.59668"
+           x="744.09448"
+           sodipodi:role="line">Textverarbeitung</tspan></text>
+      <g
+         transform="translate(0.06881319,-39.894708)"
+         id="g5669"
+         style="display:inline">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5671"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           transform="translate(0.02050781,343.51761)"><flowRegion
+             id="flowRegion5673"><rect
+               id="rect5675"
+               width="272.87091"
+               height="191.4567"
+               x="35.355339"
+               y="54.160294"
+               style="font-weight:normal;-inkscape-font-specification:Liberation Sans" /></flowRegion><flowPara
+             id="flowPara5679"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">Maschinenschreibtrainer mit intelligenten Übungsfunktionen zum Erlernen des Zehnfingersystems.</flowPara><flowPara
+             id="flowPara5681"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+             id="flowPara5685"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan5687"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Betriebssystem: </flowSpan><flowSpan
+               id="flowSpan5689"
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed">Windows, Mac OS X, GNU/Linux</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5691"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan5693">Lizenz: </flowSpan><flowSpan
+               id="flowSpan5695"
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed">GPL</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5697"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan5699">Deutschsprachig: </flowSpan><flowSpan
+               id="flowSpan5701"
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed">Ja</flowSpan></flowPara><flowPara
+             id="flowPara5703"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan5705">Website: </flowSpan><flowSpan
+               id="flowSpan5707"
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed">www.tipp10.com</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5709" /><flowPara
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5711" /></flowRoot>        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           x="35.364258"
+           y="376.50888"
+           id="text5713"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5715"
+             x="35.364258"
+             y="376.50888"
+             style="font-size:20px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">TIPP10</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:0.3917198;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           x="308.19891"
+           y="376.50888"
+           id="text5717"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5719"
+             x="308.19891"
+             y="376.50888"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;fill:#000000;fill-opacity:0.3917198;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">Zehnfingersystem</tspan></text>
+      </g>
+      <g
+         transform="translate(-0.26614775,-305.73711)"
+         id="g5721"
+         style="display:inline">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5723"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           transform="translate(0.35546888,343.61198)"><flowRegion
+             id="flowRegion5725"><rect
+               id="rect5727"
+               width="272.87088"
+               height="168.95224"
+               x="35.355339"
+               y="54.160294"
+               style="font-weight:normal;-inkscape-font-specification:Liberation Sans" /></flowRegion><flowPara
+             id="flowPara5729"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">Erlaubt das Rotieren und Sortieren von Seiten in PDF-Dokumenten, bzw. das Zerteilen und Zusammenfügen von Dateien.</flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5731" /><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5733"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan5735">Betriebssystem:</flowSpan><flowSpan
+               id="flowSpan5737"
+               style="font-weight:bold"> Windows, Mac OS X, GNU/Linux</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5739"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan5741">Lizenz:</flowSpan><flowSpan
+               id="flowSpan5743"
+               style="font-style:normal;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Condensed"> GPL </flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+             id="flowPara5745">Deutschsprachig:<flowSpan
+   id="flowSpan5747"
+   style="font-style:normal;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"> Ja</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5749"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan5751">Website:</flowSpan><flowSpan
+               id="flowSpan5753"
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"> www.pdfsam.org</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5755" /><flowPara
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5757" /></flowRoot>        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           x="35.699219"
+           y="376.60324"
+           id="text5759"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5761"
+             x="35.699219"
+             y="376.60324"
+             style="font-size:20px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">PDFsam</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:0.3917198;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           x="308.53387"
+           y="376.60324"
+           id="text5763"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5765"
+             x="308.53387"
+             y="376.60324"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;fill:#000000;fill-opacity:0.3917198;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">PDF-Bearbeitung</tspan></text>
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer15"
+       inkscape:label="gfx"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="744.09448"
+         y="237.59669"
+         id="text4066-3"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           x="744.09448"
+           y="237.59669"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           id="tspan4246">Grafik &amp;</tspan><tspan
+           sodipodi:role="line"
+           x="744.09448"
+           y="269.59668"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           id="tspan4240">Bildbearbeitung</tspan></text>
+      <g
+         style="display:inline"
+         id="g6605-6-4"
+         transform="translate(0.06881319,-39.894708)">
+        <flowRoot
+           transform="translate(0.02050781,343.51761)"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="flowRoot5741-2-2"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5743-1-7"><rect
+               style="font-weight:normal;-inkscape-font-specification:Liberation Sans"
+               y="54.160294"
+               x="35.355339"
+               height="191.4567"
+               width="272.87091"
+               id="rect5745-1-8" /></flowRegion><flowPara
+             id="flowPara5757-1-4"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">Virtueller Leuchttisch und Dunkelkammer für Fotografen mit Funktionen zur Bildbearbeitung und </flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3540">-verwaltung.</flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3573"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan3575" /></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3601"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan3603">Betriebssystem: </flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan3520">Mac OS X, GNU/Linux</flowSpan></flowPara><flowPara
+             id="flowPara5763-5-3"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan5771-17-2"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Lizenz: </flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan3522">GPL</flowSpan></flowPara><flowPara
+             id="flowPara5765-2-2"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan6572-4-5"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Deutschsprachig: </flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan3524">Ja</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3578"><flowSpan
+               id="flowSpan6574-4-5"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan3526">www.darktable.org</flowSpan></flowPara><flowPara
+             id="flowPara5753-9-4"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+             id="flowPara5751-6-6"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /></flowRoot>        <text
+           sodipodi:linespacing="125%"
+           id="text5773-7-7"
+           y="376.50888"
+           x="35.364258"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           xml:space="preserve"><tspan
+             style="font-size:20px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold"
+             y="376.50888"
+             x="35.364258"
+             id="tspan5775-7-8"
+             sodipodi:role="line">Darktable</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5773-2-6-9"
+           y="376.50888"
+           x="308.19891"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:0.3917198;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           xml:space="preserve"><tspan
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;fill:#000000;fill-opacity:0.3917198;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             y="376.50888"
+             x="308.19891"
+             id="tspan5775-9-6-2"
+             sodipodi:role="line">Foto-Workflow</tspan></text>
+      </g>
+      <g
+         style="display:inline"
+         id="g6605-3-1-1"
+         transform="translate(-0.26614775,-305.73711)">
+        <flowRoot
+           transform="translate(0.35546888,343.61198)"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="flowRoot5741-0-2-4"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5743-3-9-9"><rect
+               style="font-weight:normal;-inkscape-font-specification:Liberation Sans"
+               y="54.160294"
+               x="35.355339"
+               height="168.95224"
+               width="272.87088"
+               id="rect5745-9-1-4" /></flowRegion><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara6750-3-1">Einfacher Betrachter für Bilder in den gängigen Formaten mit Diaschaufunktion und einfachen Bearbeitungsmöglichkeiten.</flowPara><flowPara
+             id="flowPara5759-3-0-2"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+             id="flowPara5761-5-4-2"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan5769-4-3-1"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Betriebssystem:</flowSpan><flowSpan
+               style="font-weight:bold"
+               id="flowSpan3528"> Windows 2000 und neuer</flowSpan></flowPara><flowPara
+             id="flowPara5763-4-3-0"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan5771-1-0-9"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Lizenz:</flowSpan><flowSpan
+               style="font-style:normal;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+               id="flowSpan3534"> GPL </flowSpan></flowPara><flowPara
+             id="flowPara5765-6-5-5"
+             style="font-size:14px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Deutschsprachig:<flowSpan
+   style="font-style:normal;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+   id="flowSpan3510"> Nein</flowSpan></flowPara><flowPara
+             id="flowPara5767-2-3-8"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan6574-7-6-5"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website:</flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan3538"> jpegview.sourceforge.net</flowSpan></flowPara><flowPara
+             id="flowPara5753-0-2-9"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+             id="flowPara5751-3-7-4"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /></flowRoot>        <text
+           sodipodi:linespacing="125%"
+           id="text5773-1-9-1"
+           y="376.60324"
+           x="35.699219"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           xml:space="preserve"><tspan
+             style="font-size:20px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold"
+             y="376.60324"
+             x="35.699219"
+             id="tspan5775-1-0-2"
+             sodipodi:role="line">JPEGView</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5773-2-2-8-7"
+           y="376.60324"
+           x="308.53387"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:0.3917198;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           xml:space="preserve"><tspan
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;fill:#000000;fill-opacity:0.3917198;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             y="376.60324"
+             x="308.53387"
+             id="tspan5775-9-9-6-5"
+             sodipodi:role="line">Bildbetrachter</tspan></text>
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer16"
+       inkscape:label="edu"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="744.09448"
+         y="237.59668"
+         id="text4066-3-4"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           x="744.09448"
+           y="237.59668"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           id="tspan4240-0">Lernprogramme</tspan></text>
+      <g
+         style="display:inline"
+         id="g6605-6-4-5"
+         transform="translate(0.06881363,-39.894712)">
+        <flowRoot
+           transform="translate(0.02050781,343.51761)"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="flowRoot5741-2-2-0"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5743-1-7-2"><rect
+               style="font-weight:normal;-inkscape-font-specification:Liberation Sans"
+               y="54.160294"
+               x="35.355339"
+               height="191.4567"
+               width="272.87091"
+               id="rect5745-1-8-6" /></flowRegion><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3540-9">Wikipedia und andere Seiten offline lesen.</flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3573-2" /><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3601-7"><flowSpan
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+               id="flowSpan3603-3">Betriebssystem: </flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan3520-2">Windows, Mac OS X, GNU/Linux</flowSpan></flowPara><flowPara
+             id="flowPara5763-5-3-4"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan5771-17-2-2"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Lizenz: </flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan3522-0">GPL</flowSpan></flowPara><flowPara
+             id="flowPara5765-2-2-3"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan6572-4-5-2"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Deutschsprachig: </flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan3524-0">Ja</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3578-0"><flowSpan
+               id="flowSpan6574-4-5-4"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan3526-6">www.kiwix.org</flowSpan></flowPara><flowPara
+             id="flowPara5753-9-4-9"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+             id="flowPara5751-6-6-0"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /></flowRoot>        <text
+           sodipodi:linespacing="125%"
+           id="text5773-7-7-3"
+           y="376.50888"
+           x="35.364258"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           xml:space="preserve"><tspan
+             style="font-size:20px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold"
+             y="376.50888"
+             x="35.364258"
+             id="tspan5775-7-8-7"
+             sodipodi:role="line">Kiwix</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5773-2-6-9-6"
+           y="376.50888"
+           x="308.19891"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:0.3917198;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           xml:space="preserve"><tspan
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;fill:#000000;fill-opacity:0.3917198;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             y="376.50888"
+             x="308.19891"
+             id="tspan5775-9-6-2-9"
+             sodipodi:role="line">Offline-Reader</tspan></text>
+      </g>
+      <g
+         style="display:inline"
+         id="g6605-3-1-1-4"
+         transform="translate(-0.26614737,-305.73711)">
+        <flowRoot
+           transform="translate(0.35546888,343.61198)"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="flowRoot5741-0-2-4-0"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5743-3-9-9-3"><rect
+               style="font-weight:normal;-inkscape-font-specification:Liberation Sans"
+               y="54.160294"
+               x="35.355339"
+               height="168.95224"
+               width="272.87088"
+               id="rect5745-9-1-4-6" /></flowRegion><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara6750-3-1-2" /><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara5617">Ermöglicht das Umrechnen von nahezu allen Einheiten, Zahlensystemen, Währungen und mehr.</flowPara><flowPara
+             id="flowPara5759-3-0-2-1"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+             id="flowPara5761-5-4-2-8"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan5769-4-3-1-5"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Betriebssystem:</flowSpan><flowSpan
+               style="font-weight:bold"
+               id="flowSpan3528-9"> Windows, Mac OS X, GNU/Linux</flowSpan></flowPara><flowPara
+             id="flowPara5763-4-3-0-8"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan5771-1-0-9-6"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Lizenz:</flowSpan><flowSpan
+               style="font-style:normal;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+               id="flowSpan3534-1"> GPL </flowSpan></flowPara><flowPara
+             id="flowPara5765-6-5-5-6"
+             style="font-size:14px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Deutschsprachig:<flowSpan
+   style="font-style:normal;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+   id="flowSpan3510-5"> Ja</flowSpan></flowPara><flowPara
+             id="flowPara5767-2-3-8-7"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
+               id="flowSpan6574-7-6-5-0"
+               style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website:</flowSpan><flowSpan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+               id="flowSpan3538-9"> www.jonelo.de/java/nc/</flowSpan></flowPara><flowPara
+             id="flowPara5753-0-2-9-1"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+             id="flowPara5751-3-7-4-0"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /></flowRoot>        <text
+           sodipodi:linespacing="125%"
+           id="text5773-1-9-1-3"
+           y="376.60324"
+           x="35.699219"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           xml:space="preserve"><tspan
+             style="font-size:20px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold"
+             y="376.60324"
+             x="35.699219"
+             id="tspan5775-1-0-2-4"
+             sodipodi:role="line">NumericalChameleon</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5773-2-2-8-7-2"
+           y="376.60324"
+           x="308.53387"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:0.3917198;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           xml:space="preserve"><tspan
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;fill:#000000;fill-opacity:0.3917198;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             y="376.60324"
+             x="308.53387"
+             id="tspan5775-9-9-6-5-5"
+             sodipodi:role="line" /><tspan
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;fill:#000000;fill-opacity:0.3917198;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             y="401.60324"
+             x="308.53387"
+             sodipodi:role="line"
+             id="tspan5613">Einheitenkonverter</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="layout"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Helper"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <rect
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.49796566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3092"
+         width="333.07089"
+         height="30.331341"
+         x="708.66144"
+         y="815.19177" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="Logo2"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <g
+         transform="matrix(0.09172912,0,0,0.09172912,2.109455,594.64853)"
+         style="fill:#ffffff;fill-opacity:1;display:inline"
+         id="g3421-5-2">
+        <path
+           id="path4202-4-9"
+           d="m 8564.7728,228.098 c -4.6739,-0.0568 -9.2749,0.92904 -13.4688,2.8125 -7.4559,3.34837 -13.664,9.54106 -16.8437,17.78125 l -10.6563,115.65625 -68.5,91.1875 17.6876,5.03125 86.8124,-25.0625 c 6.8486,-0.0112 13.05,2.77177 17.5313,7.28125 4.4814,4.50948 7.2329,10.73427 7.2187,17.625 l -13.2812,46.65625 16.125,1.375 92.375,69.40625 c 8.2009,3.12908 16.9192,2.62962 24.375,-0.71875 7.4558,-3.34837 13.6328,-9.54386 16.8125,-17.78125 l 10.6563,-115.65625 69.9062,-93.0625 c 3.1797,-8.2402 2.7268,-16.95606 -0.5625,-24.40625 -3.2894,-7.4502 -9.3957,-13.62092 -17.5937,-16.75 l -115.3438,-9.875 -92.3438,-69.40625 c -3.5866,-1.3702 -7.2709,-2.04957 -10.9062,-2.09375 z m -109.4688,227.4375 -69,-19.71875 c -6.8484,0.0141 -13.0671,2.82022 -17.5624,7.34375 -4.4955,4.52354 -7.2673,10.76271 -7.2813,17.65625 l 24.5937,87.28125 -24.9062,87.34375 c -0.014,6.89354 2.7403,13.11553 7.2188,17.625 4.4785,4.50667 10.6826,7.29535 17.5312,7.28125 l 86.7812,-25.0625 86.7188,24.75 c 6.8485,-0.014 13.0359,-2.8174 17.5312,-7.34375 4.4954,-4.52634 7.3015,-10.76552 7.3126,-17.65625 l -24.5938,-87.28125 11.5938,-40.6875 -99.1563,-8.5 c -8.198,-3.12908 -14.3385,-9.29981 -17.625,-16.75 -3.2894,-7.4502 -3.7421,-16.16606 -0.5625,-24.40625 0,0.006 1.4062,-1.875 1.4062,-1.875 z m 193.4063,203.21875 c -1.8766,-0.0654 -3.7937,0.24904 -5.6563,0.96875 l -42,31.78125 -52.375,4.65625 c -3.7279,1.43943 -6.5299,4.25446 -8.0312,7.65625 -1.5013,3.40179 -1.7151,7.37179 -0.2812,11.125 l 31.625,42.375 4.6874,52.75 c 1.4338,3.75321 4.2457,6.5756 7.625,8.09375 3.3794,1.51816 7.3375,1.74913 11.0626,0.3125 l 42,-31.78125 52.375,-4.65625 c 3.725,-1.43944 6.5299,-4.25166 8.0312,-7.65625 1.5013,-3.4046 1.7151,-7.40304 0.2812,-11.15625 l -31.625,-42.34375 -4.6874,-52.78125 c -1.4338,-3.75321 -4.2428,-6.54435 -7.625,-8.0625 -1.6911,-0.75907 -3.5297,-1.21588 -5.4063,-1.28125 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4204-4-4"
+           transform="matrix(2.8113942,0,0,2.8113942,8355.3016,222.72268)"
+           style="fill:#ffffff;fill-opacity:1">
+          <path
+             id="path4206-4-9"
+             d="m 182.238,121.084 c 0,0 -0.085,18.031 -0.085,18.031 0,0 23.358,0 23.358,0 4.063,0 7.357,3.294 7.357,7.357 0,4.063 -3.294,7.357 -7.357,7.357 0,0 -23.358,0 -23.358,0 0,0 0,91.975 0,91.975 0,4.515 -3.66,8.174 -8.174,8.174 -4.514,0 -8.174,-3.66 -8.174,-8.174 0,0 0,-91.975 0,-91.975 0,0 -14.164,0 -14.164,0 -4.063,0 -7.357,-3.294 -7.357,-7.357 0,-4.063 3.294,-7.357 7.357,-7.357 0,0 13.962,0 13.962,0 0,0 0,-16.11 0,-16.11 0,-19.822 12.463,-29.833 31.265,-29.833 0,0 8.644,0 8.644,0 4.063,0 7.357,3.294 7.357,7.357 0,4.063 -3.294,7.357 -7.357,7.357 0,0 -8.644,0 -8.644,0 -11.105,0.001 -14.63,3.987 -14.63,13.198 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           id="g4208-3-9"
+           transform="matrix(2.8113942,0,0,2.8113942,8355.3016,222.72268)"
+           style="fill:#ffffff;fill-opacity:1">
+          <path
+             id="path4210-3-0"
+             d="m 355.087,121.084 c 0,0 -0.085,18.031 -0.085,18.031 0,0 23.358,0 23.358,0 4.063,0 7.357,3.294 7.357,7.357 0,4.063 -3.294,7.357 -7.357,7.357 0,0 -23.358,0 -23.358,0 0,0 0,91.975 0,91.975 0,4.515 -3.66,8.174 -8.174,8.174 -4.514,0 -8.174,-3.66 -8.174,-8.174 0,0 0,-91.975 0,-91.975 0,0 -14.165,0 -14.165,0 -4.063,0 -7.357,-3.294 -7.357,-7.357 0,-4.063 3.294,-7.357 7.357,-7.357 0,0 13.962,0 13.962,0 0,0 0,-16.11 0,-16.11 0,-19.822 12.463,-29.833 31.265,-29.833 0,0 8.644,0 8.644,0 4.063,0 7.357,3.294 7.357,7.357 0,4.063 -3.294,7.357 -7.357,7.357 0,0 -8.644,0 -8.644,0 -11.103,0.001 -14.629,3.987 -14.629,13.198 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           id="g4212-6-7"
+           transform="matrix(2.8113942,0,0,2.8113942,8355.3016,222.72268)"
+           style="fill:#ffffff;fill-opacity:1">
+          <path
+             id="path4214-9-6"
+             d="m 402.657,187.03 c 0,0 66.916,0 66.916,0 -2.767,-22.476 -15.458,-32.213 -31.211,-32.213 -19.651,0 -32.445,12.228 -35.705,32.213 z m 35.995,51.454 c 17.733,0 25.347,-9.427 28.229,-13.146 0,0 3.535,-4.626 5.499,-5.205 1.793,-0.52 3.782,-0.369 5.56,0.577 3.228,1.716 4.673,5.471 3.593,8.833 -0.468,1.793 -1.401,4.061 -2.95,6.524 -5.313,8.034 -17.115,17.804 -40.222,17.804 -31.579,0 -51.811,-20.318 -51.811,-55.31 0,-30.331 15.947,-59.032 51.811,-59.032 27.191,0 44.701,19.157 46.838,50.121 0,11.645 -4.845,12.094 -17.925,12.094 0,0 -65.328,0 -65.328,0 1.495,33.113 24.433,36.74 36.706,36.74 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           id="g4216-6-5"
+           transform="matrix(2.8113942,0,0,2.8113942,8355.3016,222.72268)"
+           style="fill:#ffffff;fill-opacity:1">
+          <path
+             id="path4218-3-3"
+             d="m 221.995,172.263 c 0,-17.939 15.942,-32.083 41.568,-32.083 0,0 0.614,0.002 0.614,0.002 22.041,-0.007 33.241,9.637 38.283,17.567 1.47,2.431 2.356,4.67 2.8,6.44 1.025,3.318 -0.347,7.025 -3.41,8.719 -1.688,0.934 -3.576,1.083 -5.277,0.57 -1.864,-0.571 -5.219,-5.138 -5.219,-5.138 -1.978,-2.653 -6.306,-8.254 -14.907,-11.153 -3.725,-1.182 -7.918,-1.815 -12.884,-1.815 -15.942,0 -25.426,6.519 -25.426,16.487 0,7.143 5.046,12.913 13.723,14.729 0,0 27.439,5.85 27.439,5.85 14.933,3.229 28.049,10.949 28.049,28.655 0,18.78 -16.343,32.765 -42.978,32.765 0,0 -1.164,0.011 -1.164,0.011 -23.107,0 -34.909,-9.77 -40.222,-17.804 -1.549,-2.463 -2.483,-4.731 -2.95,-6.524 -1.08,-3.362 0.365,-7.117 3.593,-8.833 1.778,-0.945 3.768,-1.096 5.561,-0.577 1.964,0.579 5.499,5.205 5.499,5.205 2.098,2.706 6.703,8.436 15.888,11.354 4.051,1.286 8.664,1.955 13.795,1.955 17.756,0 26.635,-7.081 26.635,-16.949 0,-6.758 -5.046,-12.51 -13.319,-14.326 0,0 -28.249,-5.85 -28.249,-5.85 -14.933,-3.028 -27.442,-11.989 -27.442,-29.257 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <path
+           d="m 9815.2682,877.08434 c 8.1575,0 15.2136,2.97554 21.1672,8.92662 5.9511,5.9536 8.9266,13.00977 8.9266,21.16724 0,7.97056 -3.0235,14.97621 -9.0705,21.02453 -6.0484,6.04833 -13.0565,9.0706 -21.0233,9.0706 -7.9706,0 -14.975,-3.07153 -21.0233,-9.21584 -6.0496,-6.14178 -9.0731,-13.10323 -9.0731,-20.87929 0,-7.9655 2.9743,-14.97494 8.9291,-21.022 5.9499,-6.04706 13.006,-9.07186 21.1673,-9.07186"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+           id="path4368-6-0-8"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 9955.6617,776.71952 c 0,29.51038 6.9122,56.18287 20.7353,80.01876 13.8231,23.83462 35.424,35.75319 64.799,35.75319 19.198,0 35.325,-5.21224 48.381,-15.64179 13.054,-10.42827 22.679,-24.38779 28.872,-41.88234 6.191,-17.49203 9.526,-36.90881 10.006,-58.24782 0,-21.14451 -3.263,-40.53477 -9.79,-58.17456 -6.529,-17.636 -16.272,-31.71677 -29.23,-42.24229 -12.961,-10.52553 -28.657,-15.78703 -47.087,-15.78703 -18.241,0 -33.911,5.02406 -47.0154,15.06714 -13.1032,10.04434 -22.991,23.9104 -29.6632,41.59439 -6.6722,17.684 -10.0077,37.53271 -10.0077,59.54235 m -51.8383,0 c 0,-30.62051 5.9246,-58.19603 17.7749,-82.72528 11.8479,-24.52672 28.3258,-43.70228 49.4362,-57.52666 21.1079,-13.82312 44.9045,-20.73531 71.3835,-20.73531 27.729,0.3852 52.051,7.94529 72.969,22.67901 20.915,14.7375 36.963,34.34499 48.141,58.82246 11.178,24.47873 16.765,50.97441 16.765,79.48578 0,28.99256 -5.564,55.7762 -16.692,80.34965 -11.132,24.57598 -27.155,44.08622 -48.071,58.53324 -20.917,14.44955 -45.289,21.67117 -73.112,21.67117 -27.92,0 -52.4113,-7.29361 -73.4699,-21.88713 -21.0612,-14.591 -37.1791,-34.19849 -48.3589,-58.8212 -11.1759,-24.62397 -16.7658,-51.23837 -16.7658,-79.84573"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+           id="path4372-2-0-5"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 10233.428,643.52387 c 0,-8.15873 2.47,-14.63773 7.416,-19.43951 4.943,-4.798 10.918,-7.20015 17.927,-7.20015 7.2,0 13.319,2.35416 18.359,7.05617 5.041,4.7058 7.56,11.23279 7.56,19.58349 l 0,26.49568 1.152,0 c 7.679,-13.62988 17.783,-25.9425 30.311,-36.93532 12.528,-10.9903 25.654,-16.77467 39.383,-17.35184 7.679,0 14.493,2.54613 20.448,7.63208 5.949,5.08847 8.926,11.42602 8.926,19.00758 0,8.83316 -3.049,15.33488 -9.144,19.5115 -6.097,4.17535 -14.953,7.77606 -26.566,10.79959 -11.616,3.02353 -19.152,5.49641 -22.607,7.41611 -27.937,15.2629 -41.903,41.37591 -41.903,78.3327 l 0,152.20209 c 0,8.44922 -2.375,15.0002 -7.128,19.65674 -4.751,4.65402 -10.633,6.98292 -17.638,6.98292 -7.395,0 -13.658,-2.44888 -18.792,-7.34412 -5.138,-4.89524 -7.704,-11.71019 -7.704,-20.44736 l 0,-265.95835 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+           id="path4376-0-5-2"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 10456.333,776.71952 c 0.479,22.01217 3.863,41.59566 10.152,58.753 6.287,17.15608 15.645,30.78091 28.079,40.87198 12.43,10.09233 27.381,15.47381 44.853,16.14697 26.592,0 48.19,-10.06707 64.799,-30.20248 16.606,-20.13666 24.91,-47.45706 24.91,-81.96497 0,-19.99143 -3.191,-39.11647 -9.575,-57.38016 -6.385,-18.26243 -16.416,-33.23359 -30.094,-44.91094 -13.681,-11.67608 -30.743,-17.51728 -51.192,-17.51728 -18.238,0.67442 -33.528,6.58508 -45.861,17.73325 -12.336,11.15069 -21.433,25.47142 -27.287,42.96597 -5.856,17.49203 -8.784,35.99442 -8.784,55.50466 m 166.892,115.77195 -1.153,0 c -7.58,13.68419 -18.589,24.5684 -33.027,32.65388 -14.438,8.08801 -31.347,12.12823 -50.723,12.12823 -25.807,-0.38394 -48.926,-7.79879 -69.359,-22.24581 -20.435,-14.44829 -36.288,-34.07851 -47.56,-58.89572 -11.272,-24.81341 -16.908,-52.05298 -16.908,-81.71617 0.478,-30.71776 6.45,-58.1253 17.916,-82.22136 11.463,-24.09479 27.651,-42.85988 48.565,-56.30159 20.912,-13.43918 45.136,-20.16066 72.669,-20.16066 38.565,0.95985 64.706,15.45613 78.427,43.49136 l 1.153,0 0,-16.9338 c 0,-8.03749 2.493,-14.28031 7.485,-18.73099 4.99,-4.44941 10.945,-6.67475 17.857,-6.67475 7.679,0 14.014,2.25691 19.007,6.76948 4.989,4.51256 7.489,11.1368 7.489,19.87018 l 0,268.26199 c 0,28.41412 -5.426,53.94995 -16.273,76.60749 -10.849,22.65377 -26.76,40.43627 -47.734,53.35007 -20.978,12.9074 -46.007,19.5582 -75.095,19.9421 -34.045,0 -66.654,-9.265 -97.818,-27.7914 -15.633,-10.0797 -24.073,-20.8781 -25.318,-32.3975 2.296,-12.28992 9.14,-19.58352 20.532,-21.88717 11.323,1.53324 22.936,6.2845 34.836,14.25506 9.018,6.33501 19.815,11.75821 32.387,16.27071 12.57,4.5113 25.141,6.7682 37.714,6.7682 28.692,0 50.116,-11.0989 64.272,-33.29543 14.156,-22.19908 21.233,-48.6392 21.233,-79.32286 0,-1.24528 -0.1,-3.16246 -0.289,-5.75279 -0.192,-2.58781 -0.285,-4.59971 -0.285,-6.04075"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+           id="path4380-7-7-9"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="Logo"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <g
+         transform="matrix(0.09172912,0,0,0.09172912,-8.520625,594.64853)"
+         style="fill:#000000;display:inline"
+         id="g3421-5">
+        <path
+           id="path4202-4"
+           d="m 8564.7728,228.098 c -4.6739,-0.0568 -9.2749,0.92904 -13.4688,2.8125 -7.4559,3.34837 -13.664,9.54106 -16.8437,17.78125 l -10.6563,115.65625 -68.5,91.1875 17.6876,5.03125 86.8124,-25.0625 c 6.8486,-0.0112 13.05,2.77177 17.5313,7.28125 4.4814,4.50948 7.2329,10.73427 7.2187,17.625 l -13.2812,46.65625 16.125,1.375 92.375,69.40625 c 8.2009,3.12908 16.9192,2.62962 24.375,-0.71875 7.4558,-3.34837 13.6328,-9.54386 16.8125,-17.78125 l 10.6563,-115.65625 69.9062,-93.0625 c 3.1797,-8.2402 2.7268,-16.95606 -0.5625,-24.40625 -3.2894,-7.4502 -9.3957,-13.62092 -17.5937,-16.75 l -115.3438,-9.875 -92.3438,-69.40625 c -3.5866,-1.3702 -7.2709,-2.04957 -10.9062,-2.09375 z m -109.4688,227.4375 -69,-19.71875 c -6.8484,0.0141 -13.0671,2.82022 -17.5624,7.34375 -4.4955,4.52354 -7.2673,10.76271 -7.2813,17.65625 l 24.5937,87.28125 -24.9062,87.34375 c -0.014,6.89354 2.7403,13.11553 7.2188,17.625 4.4785,4.50667 10.6826,7.29535 17.5312,7.28125 l 86.7812,-25.0625 86.7188,24.75 c 6.8485,-0.014 13.0359,-2.8174 17.5312,-7.34375 4.4954,-4.52634 7.3015,-10.76552 7.3126,-17.65625 l -24.5938,-87.28125 11.5938,-40.6875 -99.1563,-8.5 c -8.198,-3.12908 -14.3385,-9.29981 -17.625,-16.75 -3.2894,-7.4502 -3.7421,-16.16606 -0.5625,-24.40625 0,0.006 1.4062,-1.875 1.4062,-1.875 z m 193.4063,203.21875 c -1.8766,-0.0654 -3.7937,0.24904 -5.6563,0.96875 l -42,31.78125 -52.375,4.65625 c -3.7279,1.43943 -6.5299,4.25446 -8.0312,7.65625 -1.5013,3.40179 -1.7151,7.37179 -0.2812,11.125 l 31.625,42.375 4.6874,52.75 c 1.4338,3.75321 4.2457,6.5756 7.625,8.09375 3.3794,1.51816 7.3375,1.74913 11.0626,0.3125 l 42,-31.78125 52.375,-4.65625 c 3.725,-1.43944 6.5299,-4.25166 8.0312,-7.65625 1.5013,-3.4046 1.7151,-7.40304 0.2812,-11.15625 l -31.625,-42.34375 -4.6874,-52.78125 c -1.4338,-3.75321 -4.2428,-6.54435 -7.625,-8.0625 -1.6911,-0.75907 -3.5297,-1.21588 -5.4063,-1.28125 z"
+           style="fill:#000000;stroke:none"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4204-4"
+           transform="matrix(2.8113942,0,0,2.8113942,8355.3016,222.72268)"
+           style="fill:#000000">
+          <path
+             id="path4206-4"
+             d="m 182.238,121.084 c 0,0 -0.085,18.031 -0.085,18.031 0,0 23.358,0 23.358,0 4.063,0 7.357,3.294 7.357,7.357 0,4.063 -3.294,7.357 -7.357,7.357 0,0 -23.358,0 -23.358,0 0,0 0,91.975 0,91.975 0,4.515 -3.66,8.174 -8.174,8.174 -4.514,0 -8.174,-3.66 -8.174,-8.174 0,0 0,-91.975 0,-91.975 0,0 -14.164,0 -14.164,0 -4.063,0 -7.357,-3.294 -7.357,-7.357 0,-4.063 3.294,-7.357 7.357,-7.357 0,0 13.962,0 13.962,0 0,0 0,-16.11 0,-16.11 0,-19.822 12.463,-29.833 31.265,-29.833 0,0 8.644,0 8.644,0 4.063,0 7.357,3.294 7.357,7.357 0,4.063 -3.294,7.357 -7.357,7.357 0,0 -8.644,0 -8.644,0 -11.105,0.001 -14.63,3.987 -14.63,13.198 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000" />
+        </g>
+        <g
+           id="g4208-3"
+           transform="matrix(2.8113942,0,0,2.8113942,8355.3016,222.72268)"
+           style="fill:#000000">
+          <path
+             id="path4210-3"
+             d="m 355.087,121.084 c 0,0 -0.085,18.031 -0.085,18.031 0,0 23.358,0 23.358,0 4.063,0 7.357,3.294 7.357,7.357 0,4.063 -3.294,7.357 -7.357,7.357 0,0 -23.358,0 -23.358,0 0,0 0,91.975 0,91.975 0,4.515 -3.66,8.174 -8.174,8.174 -4.514,0 -8.174,-3.66 -8.174,-8.174 0,0 0,-91.975 0,-91.975 0,0 -14.165,0 -14.165,0 -4.063,0 -7.357,-3.294 -7.357,-7.357 0,-4.063 3.294,-7.357 7.357,-7.357 0,0 13.962,0 13.962,0 0,0 0,-16.11 0,-16.11 0,-19.822 12.463,-29.833 31.265,-29.833 0,0 8.644,0 8.644,0 4.063,0 7.357,3.294 7.357,7.357 0,4.063 -3.294,7.357 -7.357,7.357 0,0 -8.644,0 -8.644,0 -11.103,0.001 -14.629,3.987 -14.629,13.198 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000" />
+        </g>
+        <g
+           id="g4212-6"
+           transform="matrix(2.8113942,0,0,2.8113942,8355.3016,222.72268)"
+           style="fill:#000000">
+          <path
+             id="path4214-9"
+             d="m 402.657,187.03 c 0,0 66.916,0 66.916,0 -2.767,-22.476 -15.458,-32.213 -31.211,-32.213 -19.651,0 -32.445,12.228 -35.705,32.213 z m 35.995,51.454 c 17.733,0 25.347,-9.427 28.229,-13.146 0,0 3.535,-4.626 5.499,-5.205 1.793,-0.52 3.782,-0.369 5.56,0.577 3.228,1.716 4.673,5.471 3.593,8.833 -0.468,1.793 -1.401,4.061 -2.95,6.524 -5.313,8.034 -17.115,17.804 -40.222,17.804 -31.579,0 -51.811,-20.318 -51.811,-55.31 0,-30.331 15.947,-59.032 51.811,-59.032 27.191,0 44.701,19.157 46.838,50.121 0,11.645 -4.845,12.094 -17.925,12.094 0,0 -65.328,0 -65.328,0 1.495,33.113 24.433,36.74 36.706,36.74 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000" />
+        </g>
+        <g
+           id="g4216-6"
+           transform="matrix(2.8113942,0,0,2.8113942,8355.3016,222.72268)"
+           style="fill:#000000">
+          <path
+             id="path4218-3"
+             d="m 221.995,172.263 c 0,-17.939 15.942,-32.083 41.568,-32.083 0,0 0.614,0.002 0.614,0.002 22.041,-0.007 33.241,9.637 38.283,17.567 1.47,2.431 2.356,4.67 2.8,6.44 1.025,3.318 -0.347,7.025 -3.41,8.719 -1.688,0.934 -3.576,1.083 -5.277,0.57 -1.864,-0.571 -5.219,-5.138 -5.219,-5.138 -1.978,-2.653 -6.306,-8.254 -14.907,-11.153 -3.725,-1.182 -7.918,-1.815 -12.884,-1.815 -15.942,0 -25.426,6.519 -25.426,16.487 0,7.143 5.046,12.913 13.723,14.729 0,0 27.439,5.85 27.439,5.85 14.933,3.229 28.049,10.949 28.049,28.655 0,18.78 -16.343,32.765 -42.978,32.765 0,0 -1.164,0.011 -1.164,0.011 -23.107,0 -34.909,-9.77 -40.222,-17.804 -1.549,-2.463 -2.483,-4.731 -2.95,-6.524 -1.08,-3.362 0.365,-7.117 3.593,-8.833 1.778,-0.945 3.768,-1.096 5.561,-0.577 1.964,0.579 5.499,5.205 5.499,5.205 2.098,2.706 6.703,8.436 15.888,11.354 4.051,1.286 8.664,1.955 13.795,1.955 17.756,0 26.635,-7.081 26.635,-16.949 0,-6.758 -5.046,-12.51 -13.319,-14.326 0,0 -28.249,-5.85 -28.249,-5.85 -14.933,-3.028 -27.442,-11.989 -27.442,-29.257 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000" />
+        </g>
+        <path
+           d="m 9815.2682,877.08434 c 8.1575,0 15.2136,2.97554 21.1672,8.92662 5.9511,5.9536 8.9266,13.00977 8.9266,21.16724 0,7.97056 -3.0235,14.97621 -9.0705,21.02453 -6.0484,6.04833 -13.0565,9.0706 -21.0233,9.0706 -7.9706,0 -14.975,-3.07153 -21.0233,-9.21584 -6.0496,-6.14178 -9.0731,-13.10323 -9.0731,-20.87929 0,-7.9655 2.9743,-14.97494 8.9291,-21.022 5.9499,-6.04706 13.006,-9.07186 21.1673,-9.07186"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+           id="path4368-6-0"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 9955.6617,776.71952 c 0,29.51038 6.9122,56.18287 20.7353,80.01876 13.8231,23.83462 35.424,35.75319 64.799,35.75319 19.198,0 35.325,-5.21224 48.381,-15.64179 13.054,-10.42827 22.679,-24.38779 28.872,-41.88234 6.191,-17.49203 9.526,-36.90881 10.006,-58.24782 0,-21.14451 -3.263,-40.53477 -9.79,-58.17456 -6.529,-17.636 -16.272,-31.71677 -29.23,-42.24229 -12.961,-10.52553 -28.657,-15.78703 -47.087,-15.78703 -18.241,0 -33.911,5.02406 -47.0154,15.06714 -13.1032,10.04434 -22.991,23.9104 -29.6632,41.59439 -6.6722,17.684 -10.0077,37.53271 -10.0077,59.54235 m -51.8383,0 c 0,-30.62051 5.9246,-58.19603 17.7749,-82.72528 11.8479,-24.52672 28.3258,-43.70228 49.4362,-57.52666 21.1079,-13.82312 44.9045,-20.73531 71.3835,-20.73531 27.729,0.3852 52.051,7.94529 72.969,22.67901 20.915,14.7375 36.963,34.34499 48.141,58.82246 11.178,24.47873 16.765,50.97441 16.765,79.48578 0,28.99256 -5.564,55.7762 -16.692,80.34965 -11.132,24.57598 -27.155,44.08622 -48.071,58.53324 -20.917,14.44955 -45.289,21.67117 -73.112,21.67117 -27.92,0 -52.4113,-7.29361 -73.4699,-21.88713 -21.0612,-14.591 -37.1791,-34.19849 -48.3589,-58.8212 -11.1759,-24.62397 -16.7658,-51.23837 -16.7658,-79.84573"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+           id="path4372-2-0"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 10233.428,643.52387 c 0,-8.15873 2.47,-14.63773 7.416,-19.43951 4.943,-4.798 10.918,-7.20015 17.927,-7.20015 7.2,0 13.319,2.35416 18.359,7.05617 5.041,4.7058 7.56,11.23279 7.56,19.58349 l 0,26.49568 1.152,0 c 7.679,-13.62988 17.783,-25.9425 30.311,-36.93532 12.528,-10.9903 25.654,-16.77467 39.383,-17.35184 7.679,0 14.493,2.54613 20.448,7.63208 5.949,5.08847 8.926,11.42602 8.926,19.00758 0,8.83316 -3.049,15.33488 -9.144,19.5115 -6.097,4.17535 -14.953,7.77606 -26.566,10.79959 -11.616,3.02353 -19.152,5.49641 -22.607,7.41611 -27.937,15.2629 -41.903,41.37591 -41.903,78.3327 l 0,152.20209 c 0,8.44922 -2.375,15.0002 -7.128,19.65674 -4.751,4.65402 -10.633,6.98292 -17.638,6.98292 -7.395,0 -13.658,-2.44888 -18.792,-7.34412 -5.138,-4.89524 -7.704,-11.71019 -7.704,-20.44736 l 0,-265.95835 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+           id="path4376-0-5"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 10456.333,776.71952 c 0.479,22.01217 3.863,41.59566 10.152,58.753 6.287,17.15608 15.645,30.78091 28.079,40.87198 12.43,10.09233 27.381,15.47381 44.853,16.14697 26.592,0 48.19,-10.06707 64.799,-30.20248 16.606,-20.13666 24.91,-47.45706 24.91,-81.96497 0,-19.99143 -3.191,-39.11647 -9.575,-57.38016 -6.385,-18.26243 -16.416,-33.23359 -30.094,-44.91094 -13.681,-11.67608 -30.743,-17.51728 -51.192,-17.51728 -18.238,0.67442 -33.528,6.58508 -45.861,17.73325 -12.336,11.15069 -21.433,25.47142 -27.287,42.96597 -5.856,17.49203 -8.784,35.99442 -8.784,55.50466 m 166.892,115.77195 -1.153,0 c -7.58,13.68419 -18.589,24.5684 -33.027,32.65388 -14.438,8.08801 -31.347,12.12823 -50.723,12.12823 -25.807,-0.38394 -48.926,-7.79879 -69.359,-22.24581 -20.435,-14.44829 -36.288,-34.07851 -47.56,-58.89572 -11.272,-24.81341 -16.908,-52.05298 -16.908,-81.71617 0.478,-30.71776 6.45,-58.1253 17.916,-82.22136 11.463,-24.09479 27.651,-42.85988 48.565,-56.30159 20.912,-13.43918 45.136,-20.16066 72.669,-20.16066 38.565,0.95985 64.706,15.45613 78.427,43.49136 l 1.153,0 0,-16.9338 c 0,-8.03749 2.493,-14.28031 7.485,-18.73099 4.99,-4.44941 10.945,-6.67475 17.857,-6.67475 7.679,0 14.014,2.25691 19.007,6.76948 4.989,4.51256 7.489,11.1368 7.489,19.87018 l 0,268.26199 c 0,28.41412 -5.426,53.94995 -16.273,76.60749 -10.849,22.65377 -26.76,40.43627 -47.734,53.35007 -20.978,12.9074 -46.007,19.5582 -75.095,19.9421 -34.045,0 -66.654,-9.265 -97.818,-27.7914 -15.633,-10.0797 -24.073,-20.8781 -25.318,-32.3975 2.296,-12.28992 9.14,-19.58352 20.532,-21.88717 11.323,1.53324 22.936,6.2845 34.836,14.25506 9.018,6.33501 19.815,11.75821 32.387,16.27071 12.57,4.5113 25.141,6.7682 37.714,6.7682 28.692,0 50.116,-11.0989 64.272,-33.29543 14.156,-22.19908 21.233,-48.6392 21.233,-79.32286 0,-1.24528 -0.1,-3.16246 -0.289,-5.75279 -0.192,-2.58781 -0.285,-4.59971 -0.285,-6.04075"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+           id="path4380-7-7"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="Ornament2"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <g
+         style="display:inline;filter:url(#filter4060-2)"
+         id="g4045-1"
+         mask="none"
+         transform="matrix(0.93010717,0,0,1.2807428,803.80902,-598.24483)">
+        <path
+           transform="matrix(0.85301843,0,0,0.85301843,-483.07099,916.40941)"
+           id="path3109-8"
+           d="M 0,70.25 C 0,70.25 46.147,81 76.25,81 101.807,81 168.86,58.281 229,57.5 c 51.333,-0.667 70.938,20.499 99.999,20.499 33.291,0 119.333,-32 152.001,-31.999 59.986,0.002 87.557,26 120.666,26 53.259,0 146.952,-38.667 213.334,-38.667 66.382,0 231,34.667 306,32.667 56.979,-1.52 90.324,-22.789 192,-26 95,-3 167.096,50.162 260,43 118.888,-9.165 227,-59.083 227,-59.083 V 143 c 0,0 -61.729,-23.097 -195,-32 -83.473,-5.576 -198,20 -289,20 -147.824,0 -290,-40 -337,-39 -64.051,1.362 -122.672,38 -196,38 -73.328,0 -140.75,-43 -202.5,-43 -34.819,0 -114.167,20.334 -154.834,21 -42.988,0.704 -79.682,-14 -104.166,-14 -28.553,0 -55,10.667 -95,10 -28.671,-0.479 -49.694,-20.25 -91,-20.25 C 58.312,83.75 30.875,94.666 0,94.666 V 70.25 z"
+           inkscape:connector-curvature="0"
+           style="opacity:0.65;fill:#4ad2f0" />
+        <path
+           transform="matrix(0.85301843,0,0,0.85301843,-483.07099,916.40941)"
+           id="path3111-3"
+           d="M 0,57.667 C 0,57.667 33.5,69 52,69 74,69 129.003,58.349 154.667,58.333 175.338,58.321 225.839,73.5 241.5,73.5 275.06,73.5 268.841,61 355,61 c 32.866,0 65.898,13.307 102.5,12 56,-2 88.276,-20.306 135.5,-20 74.868,0.485 160.35,14.551 229.047,14.551 C 912.356,67.551 1016.487,20 1113,20 c 29.803,0 213.959,22 272,22 47.959,0 183.663,-35 263,-35 94.987,0 152,57 152,57 v 77 c 0,0 -30.22,-22.679 -76,-21 -41.524,1.523 -96,30 -181,30 -83.395,0 -212.229,-57 -300,-57 -72,0 -194.156,32.758 -278,34 C 890.908,128.098 717.856,108 670,108 609.022,108 562.167,82.666 517.5,82 480.288,81.445 422.561,100 386,100 358.995,100 327.797,80.5 299.5,80.5 237.75,80.5 213.504,94.667 148.667,94.667 124.404,94.667 96.834,83.167 67.5,82.5 24.003,81.511 0,89 0,89 V 57.667 z"
+           inkscape:connector-curvature="0"
+           style="opacity:0.65;fill:#d0f400" />
+        <path
+           transform="matrix(0.85301843,0,0,0.85301843,-483.07099,916.40941)"
+           id="path3113-4"
+           d="m 0,81.102 c 0,0 62.048,-19.602 90,-19.602 40.672,0 101.072,14.499 139.666,14.499 38.594,0 27.404,-14.801 78.334,-15.999 56.667,-1.333 99.266,21 134,21 34.734,0 79.734,-18.826 133.766,-18.826 52.488,0 82.617,18.418 133.561,18.418 C 774.164,80.592 875.197,24 930,24 c 54.803,0 134.231,25 179,25 51.128,0 147,-37 231,-37 88,0 144.72,24.638 242,19 108.821,-6.307 197.041,-31 218,-31 v 130 c 0,0 -69.777,-65.204 -200,-61 -77.886,2.515 -336.004,67.163 -423,68 C 1073,138 944.75,91 883,91 818.163,91 715.978,131.5 655,131.5 594.022,131.5 535.259,95 482,95 434.144,95 369.953,106.5 327.5,106.5 292.766,106.5 220.435,80 161,80 127.634,80 96.389,99.129 64.999,99.333 26.169,99.583 12.607,85.974 0,83.75 v -2.648 z"
+           inkscape:connector-curvature="0"
+           style="opacity:0.2;fill:#3394ce" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer11"
+       inkscape:label="Ornament"
+       style="display:inline">
+      <g
+         style="display:inline;filter:url(#filter3119-7)"
+         id="g4045"
+         mask="none"
+         transform="matrix(-1,0,0,1,810.82668,-325.11678)">
+        <path
+           transform="matrix(0.85301843,0,0,0.85301843,-483.07099,916.40941)"
+           id="path3109"
+           d="M 0,70.25 C 0,70.25 46.147,81 76.25,81 101.807,81 168.86,58.281 229,57.5 c 51.333,-0.667 70.938,20.499 99.999,20.499 33.291,0 119.333,-32 152.001,-31.999 59.986,0.002 87.557,26 120.666,26 53.259,0 146.952,-38.667 213.334,-38.667 66.382,0 231,34.667 306,32.667 56.979,-1.52 90.324,-22.789 192,-26 95,-3 167.096,50.162 260,43 118.888,-9.165 227,-59.083 227,-59.083 V 143 c 0,0 -61.729,-23.097 -195,-32 -83.473,-5.576 -198,20 -289,20 -147.824,0 -290,-40 -337,-39 -64.051,1.362 -122.672,38 -196,38 -73.328,0 -140.75,-43 -202.5,-43 -34.819,0 -114.167,20.334 -154.834,21 -42.988,0.704 -79.682,-14 -104.166,-14 -28.553,0 -55,10.667 -95,10 -28.671,-0.479 -49.694,-20.25 -91,-20.25 C 58.312,83.75 30.875,94.666 0,94.666 V 70.25 z"
+           inkscape:connector-curvature="0"
+           style="opacity:0.65;fill:#4ad2f0" />
+        <path
+           transform="matrix(0.85301843,0,0,0.85301843,-483.07099,916.40941)"
+           id="path3111"
+           d="M 0,57.667 C 0,57.667 33.5,69 52,69 74,69 129.003,58.349 154.667,58.333 175.338,58.321 225.839,73.5 241.5,73.5 275.06,73.5 268.841,61 355,61 c 32.866,0 65.898,13.307 102.5,12 56,-2 88.276,-20.306 135.5,-20 74.868,0.485 160.35,14.551 229.047,14.551 C 912.356,67.551 1016.487,20 1113,20 c 29.803,0 213.959,22 272,22 47.959,0 183.663,-35 263,-35 94.987,0 152,57 152,57 v 77 c 0,0 -30.22,-22.679 -76,-21 -41.524,1.523 -96,30 -181,30 -83.395,0 -212.229,-57 -300,-57 -72,0 -194.156,32.758 -278,34 C 890.908,128.098 717.856,108 670,108 609.022,108 562.167,82.666 517.5,82 480.288,81.445 422.561,100 386,100 358.995,100 327.797,80.5 299.5,80.5 237.75,80.5 213.504,94.667 148.667,94.667 124.404,94.667 96.834,83.167 67.5,82.5 24.003,81.511 0,89 0,89 V 57.667 z"
+           inkscape:connector-curvature="0"
+           style="opacity:0.65;fill:#d0f400" />
+        <path
+           transform="matrix(0.85301843,0,0,0.85301843,-483.07099,916.40941)"
+           id="path3113"
+           d="m 0,81.102 c 0,0 62.048,-19.602 90,-19.602 40.672,0 101.072,14.499 139.666,14.499 38.594,0 27.404,-14.801 78.334,-15.999 56.667,-1.333 99.266,21 134,21 34.734,0 79.734,-18.826 133.766,-18.826 52.488,0 82.617,18.418 133.561,18.418 C 774.164,80.592 875.197,24 930,24 c 54.803,0 134.231,25 179,25 51.128,0 147,-37 231,-37 88,0 144.72,24.638 242,19 108.821,-6.307 197.041,-31 218,-31 v 130 c 0,0 -69.777,-65.204 -200,-61 -77.886,2.515 -336.004,67.163 -423,68 C 1073,138 944.75,91 883,91 818.163,91 715.978,131.5 655,131.5 594.022,131.5 535.259,95 482,95 434.144,95 369.953,106.5 327.5,106.5 292.766,106.5 220.435,80 161,80 127.634,80 96.389,99.129 64.999,99.333 26.169,99.583 12.607,85.974 0,83.75 v -2.648 z"
+           inkscape:connector-curvature="0"
+           style="opacity:0.2;fill:#3394ce" />
+      </g>
+      <rect
+         style="color:#000000;fill:url(#linearGradient4462);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70866144;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3684"
+         width="1052.3622"
+         height="159.44882"
+         x="1.7382812e-05"
+         y="584.64569"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         inkscape:export-filename="/home/anonymous/Arbeitsfläche/Projekte/FSFE/trifold/png/rect3684-front.png" />
+      <image
+         y="584.64563"
+         x="0"
+         id="image5335"
+         xlink:href="data:image/png;base64,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 wCAE2gAAAAAAAAAAAAAAAAAYhEAbAAAAAAAAAAAAAAAAAIMQaAMAAAAAAAAAAAAAAABgEAJtAAAA AAAAAAAAAAAAAAxCoA0AAAAAAAAAAAAAAACAQQi0AQAAAAAAAAAAAAAAADAIgTYAAAAAAAAAAAAA AAAABiHQBgAAAAAAAAAAAAAAAMAgBNoAAAAAAAAAAAAAAAAAGIRAGwAAAAAAAAAAAAAAAACDEGgD AAAAAAAAAAAAAAAAYBACbQAAAAAAAAAAAAAAAAAMQqANAAAAAAAAAAAAAAAAgEEItAEAAAAAAAAA AAAAAAAwCIE2AAAAAAAAAAAAAAAAAAYh0AYAAAAAAAAAAAAAAADAIATaAAAAAAAAAAAAAAAAABiE QBsAAAAAAAAAAAAAAAAAgxBoAwAAAAAAAAAAAAAAAGAQAm0AAAAAAAAAAAAAAAAADEKgDQAAAAAA AAAAAAAAAIBBCLQBAAAAAAAAAAAAAAAAMAiBNgAAAAAAAAAAAAAAAAAGIdAGAAAAAAAAAAAAAAAA wCAE2gAAAAAAAAAAAAAAAAAYhEAbAAAAAAAAAAAAAAAAAIMQaAMAAAAAAAAAAAAAAABgEAJtAAAA AAAAAAAAAAAAAAxCoA0AAAAAAAAAAAAAAACAQQi0AQAAAAAAAAAAAAAAADAIgTYAAAAAAAAAAAAA AAAABiHQBgAAAAAAAAAAAAAAAMAgBNoAAAAAAAAAAAAAAAAAGIRAGwAAAAAAAAAAAAAAAACDEGgD AAAAAAAAAAAAAAAAYBACbQAAAAAAAAAAAAAAAAAMQqANAAAAAAAAAAAAAAAAgEEItAEAAAAAAAAA AAAAAAAwCIE2AAAAAAAAAAAAAAAAAAYh0AYAAAAAAAAAAAAAAADAIATaAAAAAAAAAAAAAAAAABiE QBsAAAAAAAAAAAAAAAAAgxBoAwAAAAAAAAAAAAAAAGAQAm0AAAAAAAAAAAAAAAAADEKgDQAAAAAA AAAAAAAAAIBBCLQBAAAAAAAAAAAAAAAAMAiBNgAAAAAAAAAAAAAAAAAGIdAGAAAAAAAAAAAAAAAA wCAE2gAAAAAAAAAAAAAAAAAYhEAbAAAAAAAAAAAAAAAAAIMQaAMAAAAAAAAAAAAAAABgEAJtAAAA AAAAAAAAAAAAAAxCoA0AAAAAAAAAAAAAAACAQQi0AQAAAAAAAAAAAAAAADAIgTYAAAAAAAAAAAAA AAAABiHQBgAAAAAAAAAAAAAAAMAgBNoAAAAAAAAAAAAAAAAAGIRAGwAAAAAAAAAAAAAAAACDEGgD AAAAAAAAAAAAAAAAYBACbQAAAAAAAAAAAAAAAAAMQqANAAAAAAAAAAAAAAAAgEEItAEAAAAAAAAA AAAAAAAwCIE2AAAAAAAAAAAAAAAAAAYh0AYAAAAAAAAAAAAAAADAIATaAAAAAAAAAAAAAAAAABiE QBsAAAAAAAAAAAAAAAAAgxBoAwAAAAAAAAAAAAAAAGAQAm0AAAAAAAAAAAAAAAAADEKgDQAAAAAA AAAAAAAAAIBBCLQBAAAAAAAAAAAAAAAAMAiBNgAAAAAAAAAAAAAAAAAGIdAGAAAAAAAAAAAAAAAA wCAE2gAAAAAAAAAAAAAAAAAYhEAbAAAAAAAAAAAAAAAAAIMQaAMAAAAAAAAAAAAAAABgEAJtAAAA AAAAAAAAAAAAAAxCoA0AAAAAAAAAAAAAAACAQQi0AQAAAAAAAAAAAAAAADAIgTYAAAAAAAAAAAAA AAAABiHQBgAAAAAAAAAAAAAAAMAgBNoAAAAAAAAAAAAAAAAAGIRAGwAAAAAAAAAAAAAAAACDEGgD AAAAAAAAAAAAAAAAYBACbQAAAAAAAAAAAAAAAAAM4v8AiZ1BoNVHjz0AAAAASUVORK5CYII= "
+         height="159.44882"
+         width="1052.3622" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer12"
+       inkscape:label="Text"
+       style="display:inline">
+      <rect
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70866144;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4194"
+         width="290.55118"
+         height="1.7716535"
+         x="726.37793"
+         y="200.19684" />
+      <flowRoot
+         transform="translate(0,-308.2677)"
+         xml:space="preserve"
+         id="flowRoot3171"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><flowRegion
+           id="flowRegion3173"><rect
+             id="rect3175"
+             width="102.0202"
+             height="98.989899"
+             x="531.31311"
+             y="302.68033"
+             style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
+           id="flowPara3177" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3179"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         transform="translate(307.71949,-2.2318594)"><flowRegion
+           id="flowRegion3181"><rect
+             id="rect3183"
+             width="186.45035"
+             height="142.0479"
+             x="436.36365"
+             y="343.08438" /></flowRegion><flowPara
+           id="flowPara3185"
+           style="font-size:18px;font-style:italic;-inkscape-font-specification:Liberation Sans Italic">Acht Freie Computerprogramme, die Deine Rechte</flowPara><flowPara
+           style="font-size:18px;font-style:italic;-inkscape-font-specification:Liberation Sans Italic"
+           id="flowPara3208">als Nutzer/-in respektieren </flowPara><flowPara
+           style="font-size:18px;font-style:italic;-inkscape-font-specification:Liberation Sans Italic"
+           id="flowPara3210">und schützen.</flowPara></flowRoot>      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         x="379.11432"
+         y="70.670822"
+         id="text3212"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="379.11432"
+           y="70.670822"
+           id="tspan3216"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Was ist »Freie Software«?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         x="382.83759"
+         y="105.55563"
+         id="text3222"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3224"
+           x="382.83759"
+           y="105.55563" /></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3226"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         transform="translate(-3.7577433,-39.223663)"><flowRegion
+           id="flowRegion3228"><rect
+             id="rect3230"
+             width="283.49121"
+             height="219.16454"
+             x="382.83762"
+             y="131.2686" /></flowRegion><flowPara
+           id="flowPara3290"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">Von »Freier Software« spricht man, sobald ein Software-Hersteller sein <flowSpan
+   style="font-size:14px;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+   id="flowSpan3478">Computerprogramm </flowSpan>unter einer <flowSpan
+   style="font-size:14px;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+   id="flowSpan3480">Freien Softwarelizenz</flowSpan> veröffentlicht.</flowPara><flowPara
+           id="flowPara3292"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+           id="flowPara3324"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">Im Gegensatz zu <flowSpan
+   style="font-size:14px;font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+   id="flowSpan3594">proprietären</flowSpan> Softwarelizenzen (welche die Art und Weise der Software-Nutzung meist zugunsten des Herstellers <flowSpan
+   style="font-size:14px;font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
+   id="flowSpan3596">einschränken</flowSpan>), zielen <flowSpan
+   style="font-size:14px;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+   id="flowSpan3655">Freie Softwarelizenzen</flowSpan> darauf ab, <flowSpan
+   style="font-size:14px;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+   id="flowSpan3482">Deine Rechte als Nutzer/-in</flowSpan> zu verteidigen. Diese Rechte können anhand von <flowSpan
+   style="font-size:14px;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+   id="flowSpan3797">vier Freiheiten</flowSpan> beschrieben werden:</flowPara><flowPara
+           id="flowPara3314"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+           id="flowPara3316"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+           id="flowPara3306"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
+           id="flowPara3308"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /></flowRoot>      <flowRoot
+         transform="translate(0,-8.5317994e-6)"
+         xml:space="preserve"
+         id="flowRoot3330"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><flowRegion
+           id="flowRegion3332"><rect
+             id="rect3334"
+             width="14.999235"
+             height="289.9852"
+             x="349.26788"
+             y="351.25739" /></flowRegion><flowPara
+           id="flowPara3336">as</flowPara></flowRoot>      <g
+         style="display:inline"
+         id="g4048"
+         transform="translate(17.71654,-305.02695)">
+        <flowRoot
+           transform="translate(57.981476,255.87119)"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="flowRoot3338"
+           xml:space="preserve"><flowRegion
+             id="flowRegion3340"><rect
+               y="332.68689"
+               x="309.98419"
+               height="332.84015"
+               width="37.140961"
+               id="rect3342" /></flowRegion><flowPara
+             id="flowPara3344"
+             style="font-size:14px">•</flowPara><flowPara
+             id="flowPara3346"
+             style="font-size:14px" /><flowPara
+             id="flowPara3348"
+             style="font-size:14px" /><flowPara
+             id="flowPara3350"
+             style="font-size:14px">•</flowPara><flowPara
+             id="flowPara3352"
+             style="font-size:14px" /><flowPara
+             id="flowPara3354"
+             style="font-size:14px" /><flowPara
+             id="flowPara3358"
+             style="font-size:14px" /><flowPara
+             id="flowPara3657"
+             style="font-size:14px">•</flowPara><flowPara
+             id="flowPara3370"
+             style="font-size:14px" /><flowPara
+             id="flowPara3360"
+             style="font-size:14px" /><flowPara
+             id="flowPara3362"
+             style="font-size:14px">•</flowPara><flowPara
+             id="flowPara3364"
+             style="font-size:14px" /><flowPara
+             id="flowPara3366"
+             style="font-size:14px" /><flowPara
+             id="flowPara3368"
+             style="font-size:14px" /></flowRoot>        <flowRoot
+           transform="translate(-820.82415,308.24606)"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+           id="flowRoot3399"
+           xml:space="preserve"><flowRegion
+             id="flowRegion3401"><rect
+               y="279.83246"
+               x="1199.9387"
+               height="251.29416"
+               width="265.76733"
+               id="rect3403"
+               style="font-weight:normal;-inkscape-font-specification:Liberation Sans Narrow Condensed" /></flowRegion><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3405">Der Freiheit, das Programm jederzeit und für jeden beliebigen Zweck zu <flowSpan
+   style="font-size:14px;font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+   id="flowSpan3659">verwenden</flowSpan></flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3407" /><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3409">Der Freiheit, die Funktionsweise des Programms zu <flowSpan
+   style="font-size:14px;font-weight:bold"
+   id="flowSpan3671">verstehen</flowSpan>, indem Du seinen Programmiercode untersuchst (= »Open Source«)</flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3667" /><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3669">Der Freiheit, das Programm zu <flowSpan
+   style="font-size:14px;font-weight:bold"
+   id="flowSpan3673">verändern</flowSpan>, um es Deinen Anforderungen und Wünschen anzupassen</flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3411" /><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3413">Der Freiheit, Kopien des (un)veränderten Programms an Deine Mitmenschen zu <flowSpan
+   style="font-size:14px;font-weight:bold"
+   id="flowSpan3675">verteilen</flowSpan>, damit auch Andere davon profitieren können </flowPara><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3415" /><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3417" /><flowPara
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+             id="flowPara3419" /></flowRoot>      </g>
+      <flowRoot
+         transform="translate(0,-308.2677)"
+         xml:space="preserve"
+         id="flowRoot4185"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><flowRegion
+           id="flowRegion4187"><rect
+             id="rect4189"
+             width="281.81818"
+             height="75.757576"
+             x="379.79797"
+             y="529.95306" /></flowRegion><flowPara
+           id="flowPara4191" /></flowRoot>      <flowRoot
+         transform="translate(0,-8.5317994e-6)"
+         xml:space="preserve"
+         id="flowRoot4193"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><flowRegion
+           id="flowRegion4195"><rect
+             id="rect4197"
+             width="283.83838"
+             height="69.696968"
+             x="378.78787"
+             y="524.90259"
+             style="font-size:14px" /></flowRegion><flowPara
+           id="flowPara4199" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4201"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         transform="translate(0.30476,-9.1637755)"><flowRegion
+           id="flowRegion4203"><rect
+             id="rect4205"
+             width="283.81055"
+             height="140.40405"
+             x="378.78787"
+             y="538.03387" /></flowRegion><flowPara
+           id="flowPara4217"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">Weitere Informationen zu Freier Software, Freien Softwarelizenzen und dem »Free Software Movement« findest Du unter <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+   id="flowSpan4229">www.fsfe.org</flowSpan>.</flowPara></flowRoot>      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="744.09448"
+         y="155.48277"
+         id="text4066"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan4068"
+           x="744.09448"
+           y="155.48277"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Freie</tspan><tspan
+           sodipodi:role="line"
+           x="744.09448"
+           y="187.48277"
+           id="tspan4070"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Software</tspan><tspan
+           sodipodi:role="line"
+           x="744.09448"
+           y="219.48277"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="tspan4215" /><tspan
+           sodipodi:role="line"
+           x="744.09448"
+           y="251.48277"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="tspan4217" /></text>
+    </g>
+  </g>
+</svg>
