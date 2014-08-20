@@ -8,6 +8,9 @@
 \setlength{\columnsep}{1.5cm}
 \usepackage{titlesec}
 \titleformat*{\section}{\LARGE\bfseries\center}
+\usepackage{color}
+\definecolor{gray}{gray}{.5}
+\setlength{\parindent}{0pt} 
 
 \usepackage{hyperref}
 \hypersetup{
@@ -25,14 +28,14 @@
 \pagestyle{empty} 
 
 \newcommand{\software}[7]{
-\subsection*{#1 (#2)}
+\subsection*{#1 \hfill \textcolor{gray}{#2}}
 #3 
-\begin{compactitem}\medskip
-\item \textbf{Betriebssystem:} #4
-\item \textbf{Lizenz:} #6
-\item \textbf{Deutschsprachig:} #7
-\item \textbf{Homepage:} \url{#5}
-\end{compactitem} 
+\medskip
+
+\textit{Betriebssystem:} \textbf{#4} \\
+\textit{Lizenz:} \textbf{#6} \\
+\textit{Deutschsprachig:} \textbf{#7} \\
+\textit{Homepage:} \textbf{\url{#5}} \\
 }
 
 \newcommand{\thema}[1]{\twocolumn[{\section*{Freie Software-Auswahl: #1}}\bigskip]}
