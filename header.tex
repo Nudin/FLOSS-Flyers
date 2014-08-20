@@ -7,7 +7,8 @@
 \definecolor{gray}{gray}{.5}
 \setlength{\parindent}{0pt} 
 \usepackage{blindtext}
-\setmargins{2cm}{1cm}{0.15\textwidth}{1cm}
+\usepackage[condensed]{tgheros}
+\setmargins{2cm}{1cm}{8mm}{8mm}
 
 \usepackage{hyperref}
 \hypersetup{
@@ -20,18 +21,19 @@
     linkcolor=black,
     citecolor=black,
     filecolor=black,
-    urlcolor=blue
+    urlcolor=black
 }
 \def\UrlFont{\bfseries}
 \pagestyle{empty} 
 
 \newcommand{\software}[7]{
-\begin{minipage}[t][0.4\textheight]{\textwidth}
-
+\begin{minipage}[t][0.4\textheight]{1\textwidth}
+\flushleft
 \subsection*{#1 \hfill \textcolor{gray}{#2}}
 #3 
 \medskip
 
+%\scalebox{.9}[1.0]{\textit{Betriebssystem:} \textbf{#4}} \\
 \textit{Betriebssystem:} \textbf{#4} \\
 \textit{Lizenz:} \textbf{#6} \\
 \textit{Deutschsprachig:} \textbf{#7} \\
@@ -62,6 +64,8 @@ und schützen. }
 \end{flushleft}
 \vfill
 \end{titlepage}
+
+\flushleft
 }
 
 \newcommand{\backpage}{
