@@ -1,16 +1,13 @@
+\documentclass[12pt,a4paper]{leaflet}
 \usepackage[utf8]{inputenc}
 \usepackage[german]{babel}
-\usepackage{graphicx}
-\usepackage{paralist}
 \usepackage{microtype}
-\usepackage[a4paper,left=1.9cm,right=1.5cm,top=1cm,bottom=1cm,landscape]{geometry}
-\usepackage{multicol}
-\setlength{\columnsep}{1.5cm}
-\usepackage{titlesec}
-\titleformat*{\section}{\LARGE\bfseries\center}
+\usepackage{graphicx}
 \usepackage{color}
 \definecolor{gray}{gray}{.5}
 \setlength{\parindent}{0pt} 
+\usepackage{blindtext}
+\setmargins{2cm}{1cm}{0.15\textwidth}{1cm}
 
 \usepackage{hyperref}
 \hypersetup{
@@ -25,9 +22,12 @@
     filecolor=black,
     urlcolor=blue
 }
+\def\UrlFont{\bfseries}
 \pagestyle{empty} 
 
 \newcommand{\software}[7]{
+\begin{minipage}[t][0.4\textheight]{\textwidth}
+
 \subsection*{#1 \hfill \textcolor{gray}{#2}}
 #3 
 \medskip
@@ -35,7 +35,62 @@
 \textit{Betriebssystem:} \textbf{#4} \\
 \textit{Lizenz:} \textbf{#6} \\
 \textit{Deutschsprachig:} \textbf{#7} \\
-\textit{Homepage:} \textbf{\url{#5}} \\
+\textit{Homepage:} \url{#5} \\
+\vglue  2 true cm
+\end{minipage}
 }
 
-\newcommand{\thema}[1]{\twocolumn[{\section*{Freie Software-Auswahl: #1}}\bigskip]}
+\newcommand{\frontpage}[1]{
+\begin{titlepage}
+\begin{flushleft}
+\vglue  2 true cm
+
+\textsc{\LARGE Freie Software} 
+\newcommand{\HRule}{\rule{0.9\linewidth}{0.5mm}}
+\HRule \\[0.4cm]
+\textsc{\textbf{\LARGE #1}}
+
+\vglue  2 true cm
+
+{ \large\it
+Acht Freie \\
+Computerprogramme, \\
+die Deine Rechte \\
+als Nutzer/-in \\
+respektieren \\
+und schützen. }
+\end{flushleft}
+\vfill
+\end{titlepage}
+}
+
+\newcommand{\backpage}{
+\newpage
+\subsection{Was ist »Freie Software«?}
+Von »Freier Software« spricht man, sobald ein
+Software-Hersteller sein \textbf{Computerprogramm} unter
+einer \textbf{Freien Softwarelizenz} veröffentlicht.
+
+Im Gegensatz zu proprietären Softwarelizenzen
+(welche die Art und Weise der Software-Nutzung meist
+zugunsten des Herstellers einschränken), zielen \textbf{Freie
+Softwarelizenzen} darauf ab, \textbf{Deine Rechte als
+Nutzer/-in} zu verteidigen. Diese Rechte können
+anhand von \textbf{vier Freiheiten} beschrieben werden:
+\begin{itemize}
+\item Der Freiheit, das Programm jederzeit und für jeden
+beliebigen Zweck zu \textbf{verwenden}
+\item Der Freiheit, die Funktionsweise des Programms zu
+\textbf{verstehen}, indem Du seinen Programmiercode
+untersuchst
+\item Der Freiheit, das Programm zu \textbf{verändern}, um es
+Deinen Anforderungen und Wünschen anzupassen
+\item Der Freiheit, Kopien des (un)veränderten
+Programms an Deine Mitmenschen zu \textbf{verteilen},
+damit auch Andere davon profitieren können
+\end{itemize}
+
+Weitere Informationen zu Freier Software, Freien
+Softwarelizenzen und dem »Free Software Movement«
+findest Du unter \url{www.fsfe.org}.
+}
