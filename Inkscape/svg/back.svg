@@ -16,9 +16,8 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="back.svg"
-   inkscape:export-filename="/home/anonymous/Arbeitsfläche/Projekte/FSFE/trifold/png/back.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs5451">
     <filter
@@ -98,11 +97,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="433.17248"
-     inkscape:cy="418.66458"
+     inkscape:zoom="0.71899471"
+     inkscape:cx="526.18109"
+     inkscape:cy="372.04724"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer19"
+     inkscape:current-layer="layer20"
      showgrid="false"
      units="mm"
      showguides="true"
@@ -185,7 +184,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -193,7 +192,7 @@
      inkscape:groupmode="layer"
      id="layer19"
      inkscape:label="ornament"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <g
        style="display:inline;filter:url(#filter3119-7-0-9)"
@@ -241,22 +240,21 @@
      inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="fold"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
-       style="color:#000000;fill:#000000;fill-opacity:0.19594595;fill-rule:nonzero;stroke:none;stroke-width:0.70866144;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70866143999999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.25"
        id="rect7320"
-       width="1.7716535"
-       height="17.716536"
-       x="363.18896"
-       y="726.37793" />
+       width="3.5433071"
+       height="3.5433071"
+       x="364.96063"
+       y="705.1181" />
     <rect
-       style="color:#000000;fill:#000000;fill-opacity:0.19594595;fill-rule:nonzero;stroke:none;stroke-width:0.70866144;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70866143999999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.25"
        id="rect7320-6"
-       width="1.7716535"
-       height="17.716536"
-       x="363.18896"
-       y="2.421875e-06" />
+       width="3.5433071"
+       height="3.5433071"
+       x="364.96063"
+       y="31.889757" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -327,7 +325,7 @@
            id="flowPara9862"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan9864"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan9866">www.mozilla.org/de/firefox/</flowSpan></flowPara><flowPara
            id="flowPara9868"
@@ -375,7 +373,7 @@
              width="283.45297"
              id="rect9886" /></flowRegion><flowPara
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
-           id="flowPara9888">Ermöglicht die Verwaltung von E-Mail-Postfächern, Newsfeeds und Instant-Messaging-Konten \&amp; ist durch zahlreiche Erweiterungen flexibel anpassbar.</flowPara><flowPara
+           id="flowPara9888">Ermöglicht die Verwaltung von E-Mail-Postfächern, Newsfeeds sowie Instant-Messaging-Konten und ist durch zahlreiche Erweiterungen flexibel anpassbar.</flowPara><flowPara
            id="flowPara9890"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
            id="flowPara9892"
@@ -399,7 +397,7 @@
            id="flowPara9910"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan9912"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan9914">www.mozilla.org/de/thunderbird/</flowSpan></flowPara><flowPara
            id="flowPara9916"
@@ -467,7 +465,7 @@
            id="flowPara9954"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan9956"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website:</flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite:</flowSpan><flowSpan
              style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
              id="flowSpan9958"> www.freedownloadmanager.org</flowSpan></flowPara><flowPara
            id="flowPara9960"
@@ -539,7 +537,7 @@
            id="flowPara10002"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan10004"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan10006">www.transmissionbt.com</flowSpan></flowPara><flowPara
            id="flowPara10008"
@@ -611,7 +609,7 @@
            id="flowPara10050"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan10052"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan10054">www.pidgin.im</flowSpan></flowPara><flowPara
            id="flowPara10056"
@@ -640,7 +638,7 @@
            y="377.13382"
            x="318.82709"
            id="tspan10066"
-           sodipodi:role="line">Instant-Messenger</tspan></text>
+           sodipodi:role="line">Instant Messenger</tspan></text>
     </g>
     <g
        style="display:inline"
@@ -683,7 +681,7 @@
            id="flowPara10098"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan10100"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan10102">www.adium.im</flowSpan></flowPara><flowPara
            id="flowPara10104"
@@ -710,7 +708,7 @@
            y="386.54282"
            x="318.8573"
            sodipodi:role="line"
-           id="tspan10112">Instant-Messenger</tspan></text>
+           id="tspan10112">Instant Messenger</tspan></text>
     </g>
     <flowRoot
        transform="translate(1.875e-7,-3.658203e-6)"
@@ -793,7 +791,7 @@
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
            id="flowPara9554"><flowSpan
              style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
-             id="flowSpan9556">Website: </flowSpan><flowSpan
+             id="flowSpan9556">Webseite: </flowSpan><flowSpan
              id="flowSpan9558"
              style="font-weight:bold">www.videolan.org</flowSpan></flowPara><flowPara
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
@@ -865,7 +863,7 @@
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
            id="flowPara9602"><flowSpan
              style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
-             id="flowSpan9604">Website: </flowSpan><flowSpan
+             id="flowSpan9604">Webseite: </flowSpan><flowSpan
              id="flowSpan9606"
              style="font-weight:bold">www.xmbc.org</flowSpan></flowPara><flowPara
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
@@ -933,7 +931,7 @@
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
            id="flowPara9646"><flowSpan
              style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
-             id="flowSpan9648">Website:</flowSpan><flowSpan
+             id="flowSpan9648">Webseite:</flowSpan><flowSpan
              id="flowSpan9650"
              style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"> www.getmiro.com</flowSpan></flowPara><flowPara
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
@@ -1005,7 +1003,7 @@
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
            id="flowPara9694"><flowSpan
              style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
-             id="flowSpan9696">Website: </flowSpan><flowSpan
+             id="flowSpan9696">Webseite: </flowSpan><flowSpan
              id="flowSpan9698"
              style="font-weight:bold">zdfmediathk.sourceforge.net</flowSpan></flowPara><flowPara
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
@@ -1077,7 +1075,7 @@
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
            id="flowPara9742"><flowSpan
              style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
-             id="flowSpan9744">Website: </flowSpan><flowSpan
+             id="flowSpan9744">Webseite: </flowSpan><flowSpan
              id="flowSpan9746"
              style="font-weight:bold">www.avidemux.org</flowSpan></flowPara><flowPara
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
@@ -1149,7 +1147,7 @@
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
            id="flowPara9790"><flowSpan
              style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed"
-             id="flowSpan9792">Website: </flowSpan><flowSpan
+             id="flowSpan9792">Webseite: </flowSpan><flowSpan
              id="flowSpan9794"
              style="font-weight:bold">www.openshot.org</flowSpan></flowPara><flowPara
            style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
@@ -1259,7 +1257,7 @@
            id="flowPara5767-8-7"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-3-0"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan7250-7-2">de.libreoffice.org</flowSpan></flowPara><flowPara
            id="flowPara5753-6-6"
@@ -1331,7 +1329,7 @@
            id="flowPara5767-2-1-2"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-7-0-9"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan7258-7-7">www.scribus.net</flowSpan></flowPara><flowPara
            id="flowPara5753-0-9-9"
@@ -1399,7 +1397,7 @@
            id="flowPara5767-9-7-9"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-4-4-6"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website:</flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite:</flowSpan><flowSpan
              style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
              id="flowSpan7299-4-7"> www.mozilla.org/projects/calendar/</flowSpan></flowPara><flowPara
            id="flowPara5753-9-3-8"
@@ -1471,7 +1469,7 @@
            id="flowPara5767-2-3-0-2"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-7-6-6-9"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan7274-7-0">www.taskcoach.org</flowSpan></flowPara><flowPara
            id="flowPara5753-0-2-90-8"
@@ -1543,7 +1541,7 @@
            id="flowPara5767-9-1-0-4"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-4-5-5-7"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan7288-9-3">www.zim-wiki.org</flowSpan></flowPara><flowPara
            id="flowPara5753-9-4-4-3"
@@ -1615,7 +1613,7 @@
            id="flowPara5753-0-2-9-5-5"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-7-6-5-1-2"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan7290-1-6">www.xmind.net</flowSpan></flowPara><flowPara
            id="flowPara5751-3-7-4-2-9"
@@ -1725,7 +1723,7 @@
            id="flowPara5767"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan7250">www.gimp.org</flowSpan></flowPara><flowPara
            id="flowPara5753"
@@ -1796,9 +1794,9 @@
            id="flowPara5767-2"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-7"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
-             id="flowSpan7258">www.inkscape.org/de</flowSpan></flowPara><flowPara
+             id="flowSpan7258">www.inkscape.org/de/</flowSpan></flowPara><flowPara
            id="flowPara5753-0"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
            id="flowPara5751-3"
@@ -1863,7 +1861,7 @@
            id="flowPara5767-9"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-4"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website:</flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite:</flowSpan><flowSpan
              style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
              id="flowSpan7299"> www.krita.org</flowSpan></flowPara><flowPara
            id="flowPara5753-9"
@@ -1934,7 +1932,7 @@
            id="flowPara5767-2-3"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-7-6"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan7274">mypaint.intilinux.com</flowSpan></flowPara><flowPara
            id="flowPara5753-0-2"
@@ -2005,7 +2003,7 @@
            id="flowPara5767-9-1"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-4-5"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan7288">hugin.sourceforge.net</flowSpan></flowPara><flowPara
            id="flowPara5753-9-4"
@@ -2052,7 +2050,7 @@
              width="272.82303"
              id="rect5745-9-1-4" /></flowRegion><flowPara
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
-           id="flowPara6748-7-3">Mit RawTherapee können Sie die Rohdaten Ihrer Kamera in Bilder umwandeln und dabei bearbeiten.</flowPara><flowPara
+           id="flowPara6748-7-3">Mit RawTherapee kannst Du die Rohdaten Deiner Kamera in Bilder umwandeln und dabei bearbeiten.</flowPara><flowPara
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
            id="flowPara6750-3-1" /><flowPara
            id="flowPara5761-5-4-2"
@@ -2076,7 +2074,7 @@
            id="flowPara5767-2-3-8"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-7-6-5"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan7290">www.rawtherapee.com</flowSpan></flowPara><flowPara
            id="flowPara5753-0-2-9"
@@ -2187,7 +2185,7 @@
            id="flowPara5767-8"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-3"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan7250-7">www.stellarium.org</flowSpan></flowPara><flowPara
            id="flowPara5753-6"
@@ -2258,7 +2256,7 @@
            id="flowPara5767-2-1"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-7-0"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan7258-7">marble.kde.org</flowSpan></flowPara><flowPara
            id="flowPara5753-0-9"
@@ -2325,7 +2323,7 @@
            id="flowPara5767-9-7"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-4-4"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website:</flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite:</flowSpan><flowSpan
              style="font-weight:bold;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
              id="flowSpan7299-4"> www.gnu.org/software/octave/</flowSpan></flowPara><flowPara
            id="flowPara5753-9-3"
@@ -2396,7 +2394,7 @@
            id="flowPara5767-2-3-0"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-7-6-6"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan7274-7">www.geogebra.org</flowSpan></flowPara><flowPara
            id="flowPara5753-0-2-90"
@@ -2443,7 +2441,7 @@
              width="283.45123"
              id="rect5745-1-8-1" /></flowRegion><flowPara
            id="flowPara5757-1-4-8"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">Weltraumsimulator mit dem Sie durch das Sonnensystem fliegen können.</flowPara><flowPara
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">Weltraumsimulator mit dem Du durch das Sonnensystem fliegen kannst.</flowPara><flowPara
            id="flowPara5759-6-5-5"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed" /><flowPara
            id="flowPara5761-2-5-3"
@@ -2467,7 +2465,7 @@
            id="flowPara5767-9-1-0"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-4-5-5"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan7288-9">www.shatters.net/celestia/</flowSpan></flowPara><flowPara
            id="flowPara5753-9-4-4"
@@ -2538,7 +2536,7 @@
            id="flowPara5753-0-2-9-5"
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"><flowSpan
              id="flowSpan6574-7-6-5-1"
-             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Website: </flowSpan><flowSpan
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Narrow Italic Condensed">Webseite: </flowSpan><flowSpan
              style="font-weight:bold"
              id="flowSpan7290-1">phet.colorado.edu/de/</flowSpan></flowPara><flowPara
            id="flowPara5751-3-7-4-2"
