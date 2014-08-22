@@ -5,6 +5,11 @@ Jeder Flyer listet freie Software aus einem Bereich auf.
 
 Die Auswahl richtet sich an Einsteiger & Umsteiger.
 
+Es gibt zwei Versionen der Flyer, eine in TeX gemacht, eine in Inkscape erzeugte.
+
+
+Tex-Versionen
+----------------------
 Flyer:
 
 * grafik.tex  - Software aus dem Bereich Grafik

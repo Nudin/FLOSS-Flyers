@@ -5,10 +5,12 @@
 \usepackage{graphicx}
 \usepackage{color}
 \definecolor{gray}{gray}{.5}
+\definecolor{darkgray}{gray}{.2}
 \setlength{\parindent}{0pt} 
 \usepackage{blindtext}
 \usepackage[condensed]{tgheros}
 \setmargins{2cm}{1cm}{8mm}{8mm}
+\usepackage[absolute]{textpos}
 
 \usepackage{hyperref}
 \hypersetup{
@@ -25,6 +27,7 @@
 }
 \def\UrlFont{\bfseries}
 \pagestyle{empty} 
+\AddToBackground*{2}{\includegraphics[scale=1]{welle}}
 
 \newcommand{\software}[7]{
 \begin{minipage}[t][0.4\textheight]{1\textwidth}
@@ -43,6 +46,7 @@
 }
 
 \newcommand{\frontpage}[1]{
+
 \begin{titlepage}
 \begin{flushleft}
 \vglue  2 true cm
@@ -64,6 +68,15 @@ und schützen. }
 \end{flushleft}
 \vfill
 \end{titlepage}
+
+\setlength{\TPHorizModule}{\textwidth}
+\setlength{\TPVertModule}{\textheight}
+\begin{textblock}{1}(0.1,1)
+\small\textcolor{darkgray}{
+Free Software Foundation Europe e.V. \\
+Schönhauser Allee 6/7 \\
+10119 Berlin}
+\end{textblock}
 
 \flushleft
 }
@@ -97,4 +110,5 @@ damit auch Andere davon profitieren können
 Weitere Informationen zu Freier Software, Freien
 Softwarelizenzen und dem »Free Software Movement«
 findest Du unter \url{www.fsfe.org}.
+
 }
