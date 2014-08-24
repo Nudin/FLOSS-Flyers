@@ -45,6 +45,23 @@
 \end{minipage}
 }
 
+% Hack for LibreOffice/OpenOffice: Version of \software without link
+\newcommand{\softwaretwo}[7]{
+\begin{minipage}[t][0.4\textheight]{1\textwidth}
+\flushleft
+\subsection*{#1 \hfill \textcolor{gray}{#2}}
+#3 
+\medskip
+
+%\scalebox{.9}[1.0]{\textit{Betriebssystem:} \textbf{#4}} \\
+\textit{Betriebssystem:} \textbf{#4} \\
+\textit{Lizenz:} \textbf{#6} \\
+\textit{Deutschsprachig:} \textbf{#7} \\
+\textit{Homepage:} \textbf{#5} \\
+\vglue  2 true cm
+\end{minipage}
+}
+
 \newcommand{\frontpage}[1]{
 
 \begin{titlepage}
@@ -73,7 +90,9 @@ und schützen. }
 \setlength{\TPVertModule}{\textheight}
 \begin{textblock}{1}(0.1,1)
 \small\textcolor{darkgray}{
-Free Software Foundation Europe e.V. \\
+Impressum: \\
+FSFE Fellowship München \\
+c/o Free Software Foundation Europe e.V. \\
 Schönhauser Allee 6/7 \\
 10119 Berlin}
 \end{textblock}
