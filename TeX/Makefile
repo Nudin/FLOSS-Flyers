@@ -15,7 +15,7 @@ web: web.tex
 edu: edu.tex
 	pdflatex edu.tex
 
-edu: edu.tex
+audio: audio.tex
 	pdflatex audio.tex
 
 clean:
