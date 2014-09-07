@@ -10,6 +10,7 @@
 \setlength{\parindent}{0pt} 
 \usepackage{blindtext}
 \usepackage[condensed]{tgheros}
+\renewcommand*\familydefault{\sfdefault}
 \setmargins{2cm}{1cm}{8mm}{8mm}
 \usepackage[absolute]{textpos}
 
@@ -77,7 +78,7 @@
 \HRule \\[0.4cm]
 \textsc{\textbf{\Huge #1}}
 
-\vglue  2 true cm
+\vglue 1 true cm
 
 { \large\it
 Acht Freie \\
@@ -99,17 +100,6 @@ und schützen. \\
 \end{flushright}
 \end{titlepage}
 
-\setlength{\TPHorizModule}{\textwidth}
-\setlength{\TPVertModule}{\textheight}
-\begin{textblock}{1}(0.1,1)
-\small\textcolor{darkgray}{
-Impressum: \\
-FSFE Fellowship-Gruppe München \\
-c/o Free Software Foundation Europe e.V. \\
-Schönhauser Allee 6/7 \\
-10119 Berlin}
-\end{textblock}
-
 \flushleft
 }
 
@@ -118,10 +108,9 @@ Schönhauser Allee 6/7 \\
 \newcommand{\backpage}{
 \newpage
 \section{Was ist »Freie Software«?}
+»Freie Software« sind \textbf{Computer-Programme}, die unter einer Freien Software-Lizenz angeboten werden. Freie Software bietet dabei Möglichkeiten, die bei unfreier (proprietärer) Software meist zu Ungunsten der Nutzer/-innen eingeschränkt sind.
 
-Die hier aufgeführten Programme sind nur eine winzige Auswahl der verfügbaren Freien Software, um Dir die erste Beschäftigung so einfach und sicher wie möglich zu gestalten.
-
-»Freie Software« sind \textbf{Computer-Programme}, die Dir mindestens die folgenden wesentlichen \textbf{Freiheiten} gewähren:
+\textbf{Freie Software-Lizenzen} gewähren immer die folgenden wesentlichen \textbf{Freiheiten}:
 
 \begin{itemize}
 \item Die Freiheit, das Programm auf jede Weise und zu jedem beliebigen Zweck zu \textbf{verwenden}.
@@ -130,12 +119,20 @@ Die hier aufgeführten Programme sind nur eine winzige Auswahl der verfügbaren 
 \item Die Freiheit, das Programm zu \textbf{verbessern} und diese Verbesserungen zu veröffentlichen.
 \end{itemize}
 
-Dazu wird die Software meist unter einer Freien Software-Lizenz, beispielsweise der General Public License (GPL), angeboten.
+Für einige dieser Freiheiten ist der Zugang zum \textbf{Quelltext} die Voraussetzung. 
 
-Freie Software wird meist kostenfrei verbreitet, dies ist aber kein Kriterium. Sie wird gegen Geld, Ruhm oder beides erstellt, jedoch niemals umsonst. :-)
+Freie Software wird meist kostenfrei verbreitet, was aber kein Kriterium ist. Sie wird gegen Geld, Ruhm oder beides erstellt, jedoch niemals umsonst. :-)
 
 Weitere Informationen zu Freier Software,
 Freien Software-Lizenzen und dem »Free Software Movement«
 findest Du unter \url{https://fsfe.org}.
 
+\vglue  1 true cm
+\textcolor{darkgray}{\tiny
+Impressum: \\
+FSFE-Fellowship-Gruppe München
+c/o Free Software Foundation Europe e.V. \\
+Schönhauser Allee 6/7 | 
+10119 Berlin \\
+}
 }
