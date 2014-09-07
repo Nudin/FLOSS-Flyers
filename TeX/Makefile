@@ -1,4 +1,4 @@
-all: grafik office video web edu
+all: grafik office video web edu audio
 
 grafik: grafik.tex
 	pdflatex grafik.tex
@@ -14,6 +14,9 @@ web: web.tex
 
 edu: edu.tex
 	pdflatex edu.tex
-	
+
+edu: edu.tex
+	pdflatex audio.tex
+
 clean:
 	rm *.log *.aux *.out 
