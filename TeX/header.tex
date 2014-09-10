@@ -3,16 +3,13 @@
 \usepackage[german]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{microtype}
-\usepackage{graphicx}
-\usepackage{color}
-\definecolor{gray}{gray}{.5}
-\definecolor{darkgray}{gray}{.3}
-\setlength{\parindent}{0pt} 
-\usepackage{blindtext}
 \usepackage[condensed]{tgheros}
 \renewcommand*\familydefault{\sfdefault}
-\setmargins{2cm}{1cm}{8mm}{8mm}
-\usepackage[absolute]{textpos}
+
+\usepackage{graphicx}
+\usepackage[cymk]{xcolor}
+\xdefinecolor{gray}{gray}{.5}
+\xdefinecolor{darkgray}{gray}{.3}
 
 \usepackage{hyperref}
 \hypersetup{
@@ -28,7 +25,11 @@
     urlcolor=black
 }
 \def\UrlFont{\bfseries}
-\pagestyle{empty} 
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setmargins{2cm}{1cm}{8mm}{8mm}
+%% Add Background-image
 \AddToBackground*{2}{\put(0,25){\includegraphics[scale=1]{welle2}}}
 
 %%% Softwaretemplate %%%
