@@ -1,16 +1,12 @@
 \documentclass[12pt,a4paper]{leaflet}
-\usepackage[utf8]{luainputenc}
+\usepackage[utf8]{luainputenc} % remove if you want to use XeTeX
 \usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{microtype}
-\usepackage[condensed]{tgheros}
-\renewcommand*\familydefault{\sfdefault}
-
 \usepackage{graphicx}
 \usepackage[cymk]{xcolor}
 \xdefinecolor{gray}{gray}{.5}
 \xdefinecolor{darkgray}{gray}{.3}
-
 \usepackage{hyperref}
 \hypersetup{
     pdftoolbar=true,
@@ -26,13 +22,24 @@
 }
 \def\UrlFont{\bfseries}
 
+
+%% Set a slim Tex-font:
+\usepackage[condensed]{tgheros}
+\renewcommand*\familydefault{\sfdefault}
+%% When using LuaTeX you can instead set a ttf-font:
+%\usepackage{fontspec}
+%\setmainfont{font.ttf}
+
+%% Documentsettings:
 \pagestyle{empty}
 \setlength{\parindent}{0pt}
-\setmargins{2cm}{1cm}{8mm}{8mm}
-%% Add Background-image
+\setmargins{20mm}{1cm}{8mm}{8mm}
+
+%% Add Background-image:
 \AddToBackground*{2}{\put(0,25){\includegraphics[scale=1]{welle2}}}
 
-%%% Softwaretemplate %%%
+
+%%%%%%%% Softwaretemplate %%%%%%%%
 \newcommand{\software}[7]{
 \begin{minipage}[t][0.4\textheight]{1\textwidth}
 \flushleft
@@ -67,7 +74,7 @@
 }
 
 
-%%% Frontpage %%%
+%%%%%%%% Frontpage %%%%%%%%
 \newcommand{\frontpage}[1]{
 
 \begin{titlepage}
@@ -105,10 +112,10 @@ und schützen. \\
 \end{titlepage}
 
 \flushleft
-}
+} % End Frontpage
 
 
-%%% Backpage %%%
+%%%%%%%% Backpage %%%%%%%%
 \newcommand{\backpage}{
 \newpage
 \section{Was ist \frqq Freie Software\flqq?}
@@ -145,4 +152,4 @@ findest Du unter \url{https://fsfe.org}.
 \textbf{Impressum:} \ 
 Christian Kalkhoff  \ | \ Riesstraße 60  \ | \  80993 München \\
 }
-}
+} % End Backpage
