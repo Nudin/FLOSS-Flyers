@@ -1,22 +1,22 @@
 all: grafik office video web edu audio
 
 grafik: grafik.tex
-	pdflatex grafik.tex
+	lualatex -interaction=nonstopmode grafik.tex
 
 office: office.tex
-	pdflatex office.tex
+	lualatex -interaction=nonstopmode office.tex
 
 video: video.tex
-	pdflatex video.tex
+	lualatex -interaction=nonstopmode video.tex
 
 web: web.tex
-	pdflatex web.tex
+	lualatex -interaction=nonstopmode web.tex
 
 edu: edu.tex
-	pdflatex edu.tex
+	lualatex -interaction=nonstopmode edu.tex
 
 audio: audio.tex
-	pdflatex audio.tex
+	lualatex -interaction=nonstopmode audio.tex
 
 clean:
 	rm *.log *.aux *.out 
