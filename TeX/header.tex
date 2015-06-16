@@ -4,10 +4,13 @@
 \usepackage[T1]{fontenc}
 \usepackage{microtype}
 \usepackage{graphicx}
-\usepackage[cymk]{xcolor}
+\usepackage[cmyk]{xcolor}
 \xdefinecolor{gray}{gray}{.5}
 \xdefinecolor{darkgray}{gray}{.3}
 \usepackage{hyperref}
+\usepackage{fontawesome}
+\usepackage{tikz}
+\usepackage{expl3}
 \hypersetup{
     pdftoolbar=true,
     pdfmenubar=true,
@@ -38,6 +41,29 @@
 %% Add Background-image:
 \AddToBackground*{2}{\put(0,25){\includegraphics[scale=1]{welle2}}}
 
+%% Colored Bar at the top of the page:
+\ExplSyntaxOn
+\cs_new_eq:NN \Repeat \prg_replicate:nn
+\ExplSyntaxOff
+\newcommand{\border}[2]{
+  \begin{tikzpicture}[overlay,remember picture]
+    \node [
+      fill=#1,% Farbe des Randstreifens
+      text=white,% Textfarbe
+      font=\bfseries,% Einstellungen für die Schrift
+      inner xsep=0em,
+      text width=\paperwidth,
+      minimum height=7mm,% Breite des Randstreifens
+      anchor=north west
+      ]
+      at (current page.north west)
+      {\hfil\Repeat{13}{\faicon{#2}\hfil}};
+  \end{tikzpicture}
+}
+\newcommand{\borders}[2]{
+  \AddToBackground*{1}{\border{#1}{#2}}
+  \AddToBackground*{2}{\border{#1}{#2}}
+}
 
 %%%%%%%% Softwaretemplate %%%%%%%%
 \newcommand{\software}[7]{
