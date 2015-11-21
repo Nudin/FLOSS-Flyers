@@ -1,24 +1,24 @@
 all:  audio.pdf edu.pdf web.pdf video.pdf office.pdf grafik.pdf games.pdf
 
-grafik.pdf: grafik.tex
+grafik.pdf: grafik.tex header.tex
 	lualatex -interaction=nonstopmode grafik.tex
 
-office.pdf: office.tex
+office.pdf: office.tex header.tex
 	lualatex -interaction=nonstopmode office.tex
 
-video.pdf: video.tex
+video.pdf: video.tex header.tex
 	lualatex -interaction=nonstopmode video.tex
 
-web.pdf: web.tex
+web.pdf: web.tex header.tex
 	lualatex -interaction=nonstopmode web.tex
 
-edu.pdf: edu.tex
+edu.pdf: edu.tex header.tex
 	lualatex -interaction=nonstopmode edu.tex
 
-audio.pdf: audio.tex
+audio.pdf: audio.tex header.tex
 	lualatex -interaction=nonstopmode audio.tex
 
-games.pdf: games.tex
+games.pdf: games.tex header.tex
 	lualatex -interaction=nonstopmode games.tex
 
 online: audio.pdf edu.pdf web.pdf video.pdf office.pdf grafik.pdf games.pdf
