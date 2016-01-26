@@ -24,11 +24,16 @@ games.pdf: games.tex header.tex
 online: audio.pdf edu.pdf web.pdf video.pdf office.pdf grafik.pdf games.pdf
 	pdftk grafik.pdf cat 1 2down output grafik-web.pdf
 	pdftk office.pdf cat 1 2down output office-web.pdf
-	pdftk video.pdf cat 1 2down output video-web.pdf
-	pdftk web.pdf cat 1 2down output web-web.pdf
-	pdftk edu.pdf cat 1 2down output edu-web.pdf
-	pdftk audio.pdf cat 1 2down output audio-web.pdf
-	pdftk games.pdf cat 1 2down output games-web.pdf
+	pdftk video.pdf  cat 1 2down output video-web.pdf
+	pdftk web.pdf    cat 1 2down output web-web.pdf
+	pdftk edu.pdf    cat 1 2down output edu-web.pdf
+	pdftk audio.pdf  cat 1 2down output audio-web.pdf
+	pdftk games.pdf  cat 1 2down output games-web.pdf
 
 clean:
-	rm *.log *.aux *.out 
+	rm *.log *.aux *.out
+
+cleanall: clean
+	rm audio.pdf edu.pdf web.pdf video.pdf office.pdf grafik.pdf games.pdf
+	rm audio-web.pdf edu-web.pdf web-web.pdf video-web.pdf office-web.pdf grafik-web.pdf games-web.pdf
+
