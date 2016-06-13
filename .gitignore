@@ -90,3 +90,7 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+
+# Don't ship compiled version of leaflet
+leaflet-manual.tex
+leaflet.cls

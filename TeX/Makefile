@@ -1,25 +1,28 @@
 all:  audio.pdf edu.pdf web.pdf video.pdf office.pdf grafik.pdf games.pdf
 
-grafik.pdf: grafik.tex header.tex
+grafik.pdf: leaflet/leaflet.cls grafik.tex header.tex
 	lualatex -interaction=nonstopmode grafik.tex
 
-office.pdf: office.tex header.tex
+office.pdf: leaflet/leaflet.cls office.tex header.tex
 	lualatex -interaction=nonstopmode office.tex
 
-video.pdf: video.tex header.tex
+video.pdf: leaflet/leaflet.cls video.tex header.tex
 	lualatex -interaction=nonstopmode video.tex
 
-web.pdf: web.tex header.tex
+web.pdf: leaflet/leaflet.cls web.tex header.tex
 	lualatex -interaction=nonstopmode web.tex
 
-edu.pdf: edu.tex header.tex
+edu.pdf: leaflet/leaflet.cls edu.tex header.tex
 	lualatex -interaction=nonstopmode edu.tex
 
-audio.pdf: audio.tex header.tex
+audio.pdf: leaflet/leaflet.cls audio.tex header.tex
 	lualatex -interaction=nonstopmode audio.tex
 
-games.pdf: games.tex header.tex
+games.pdf: leaflet/leaflet.cls games.tex header.tex
 	lualatex -interaction=nonstopmode games.tex
+
+leaflet/leaflet.cls: leaflet/leaflet.ins leaflet/leaflet.dtx
+	cd leaflet; pdflatex leaflet.ins 
 
 online: audio.pdf edu.pdf web.pdf video.pdf office.pdf grafik.pdf games.pdf
 	pdftk grafik.pdf cat 1 2down output grafik-web.pdf
