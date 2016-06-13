@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper]{leaflet/leaflet}
+\documentclass[12pt,a4paper,foldcorr]{leaflet/leaflet}
 \usepackage[utf8]{luainputenc} % remove if you want to use XeTeX
 \usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
@@ -37,17 +37,11 @@
 %% Documentsettings:
 \pagestyle{empty}
 \setlength{\parindent}{0pt}
-\setmargins{20mm}{1cm}{8mm}{8mm}
+\setmargins{20mm}{10mm}{8mm}{8mm}
 
 %% Add Background-image:
 \AddToBackground*{2}{\put(0,25){\includegraphics[scale=1]{welle2}}}
 
-
-\AddToBackground*{1}{
-\put(80,30){
-\includegraphics[height=1cm]{KJR_LHM_4-farbig_zentriert_pos-eps-converted-to}
-}
-}
 
 %% Colored Bar at the top of the page:
 \ExplSyntaxOn
